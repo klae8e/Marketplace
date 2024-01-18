@@ -7,18 +7,21 @@
 <body>
 <h1>Sign in</h1>
 {% if not request.user.is_authenticated %}
-  <form method="post" action="{% url 'login' %}?next=/main/profile/">
+    <form method="post" action="{% url 'main:login' %}?next=/main/profile">
       {% csrf_token %}
-      <input type="text" name="username" placeholder="login" required></br>
-      <input type="password" name="password" placeholder="password" required></br>
+      <input type="text" name="username" placeholder="login" required></br></br>
+      <input type="password" name="password" placeholder="password" required></br></br>
       <input type="submit">
       {{ form.errors }}
-  </form>
+    </form>
+    <br>
+    <a href="{% url 'main:register' %}">Register</a>
+
 {% else %}
   <p>You are already logged in. Redirecting to your profile...</p>
   <script>
     setTimeout(function() {
-      window.location.href = "{% url 'profile' %}";
+      window.location.href = "{% url 'main:profile' %}";
     }, 2000);  // Ждем 2 секунды перед перенаправлением
   </script>
 {% endif %}
