@@ -11,6 +11,9 @@
   {% csrf_token %}
   <button type="submit">Logout</button>
 </form>
+<br>
+<button onclick="location.href='{% url 'main:password_change' %}'">Password change</button>
+<br><br>
 <a href="{% url 'main:index' %}">Main</a><br><br>
 <a href="{% url 'main:profile' %}">Profile</a>
 </body>
