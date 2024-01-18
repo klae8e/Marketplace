@@ -2,9 +2,26 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Sign in</title>
 </head>
 <body>
-login text
+<h1>Sign in</h1>
+{% if not request.user.is_authenticated %}
+  <form method="post" action="{% url 'login' %}?next=/main/profile/">
+      {% csrf_token %}
+      <input type="text" name="username" placeholder="login" required></br>
+      <input type="password" name="password" placeholder="password" required></br>
+      <input type="submit">
+      {{ form.errors }}
+  </form>
+{% else %}
+  <p>You are already logged in. Redirecting to your profile...</p>
+  <script>
+    setTimeout(function() {
+      window.location.href = "{% url 'profile' %}";
+    }, 2000);  // Ждем 2 секунды перед перенаправлением
+  </script>
+{% endif %}
+
 </body>
 </html>
