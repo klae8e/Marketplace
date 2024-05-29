@@ -30,5 +30,6 @@ urlpatterns = [
     path('add_to_cart/', views.add_to_cart, name='add_to_cart'),
     path('category/<int:category_id>/<int:model_id>/', views.product_detail, name='product_detail'),
     path('remove_from_cart/<int:item_id>/', views.remove_from_cart, name='remove_from_cart'),
+    path('price-history-chart/', views.price_history_chart, name='price_history_chart'),
 
 ]+ static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

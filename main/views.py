@@ -17,7 +17,8 @@ from django.views.generic import CreateView, FormView
 from main.forms import RegisterForm, SellerProductForm, ProductSearchForm
 from django.shortcuts import render
 
-from .models import Product, SellerProduct, Brand, Smartphones, MarketProduct, Market, Cart, CartItem, Favorite
+from .models import Product, SellerProduct, Brand, Smartphones, MarketProduct, Market, Cart, CartItem, Favorite, \
+    PriceHistory
 from .models import Category
 from django.contrib.auth.models import Group, User
 from .models import Model
@@ -32,7 +33,9 @@ import random
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 import matplotlib.pyplot as plt
 
-
+import pandas as pd
+import plotly.graph_objs as go
+import plotly.io as pio
 
 def index(request):
     # Получаем все объекты MarketProduct
@@ -359,19 +362,74 @@ def product_detail(request, category_id, model_id):
     # Получаем товары от продавцов для данной модели
     seller_products = SellerProduct.objects.filter(model=model)
 
+    #test
+
+    # Получаем данные цен из всех строк модели PriceHistory
+    queryset = PriceHistory.objects.all().order_by('date').values('price', 'date')
+
+    # Создаем DataFrame
+    df = pd.DataFrame(queryset)
+
+    # Преобразуем поле 'date' к типу datetime
+    df['date'] = pd.to_datetime(df['date'])
+
+    # Создаем график
+    fig = go.Figure()
+
+    # Добавляем данные к графику
+    fig.add_trace(go.Scatter(x=df['date'], y=df['price'], mode='lines+markers'))
+
+    # Настройка макета графика
+    fig.update_layout(
+        title='Изменение цены по времени',
+        xaxis_title='Дата',
+        yaxis_title='Цена'
+    )
+
+    # Преобразуем график в HTML
+    graph_html = pio.to_html(fig, full_html=False)
+
+    #testend
     context = {
         'category': category,
         'model': model,
         'market_products': market_products,
         'min_price': min_price,
         'seller_products': seller_products,
+        'graph_html': graph_html,
     }
     return render(request, 'main/product_detail.html', context)
 
 
 
 
+def price_history_chart(request):
+    # Получаем данные цен из всех строк модели PriceHistory
+    queryset = PriceHistory.objects.all().order_by('date').values('price', 'date')
 
+    # Создаем DataFrame
+    df = pd.DataFrame(queryset)
+
+    # Преобразуем поле 'date' к типу datetime
+    df['date'] = pd.to_datetime(df['date'])
+
+    # Создаем график
+    fig = go.Figure()
+
+    # Добавляем данные к графику
+    fig.add_trace(go.Scatter(x=df['date'], y=df['price'], mode='lines+markers'))
+
+    # Настройка макета графика
+    fig.update_layout(
+        title='Изменение цены по времени',
+        xaxis_title='Дата',
+        yaxis_title='Цена'
+    )
+
+    # Преобразуем график в HTML
+    graph_html = pio.to_html(fig, full_html=False)
+
+    return render(request, 'main/price_history_chart.html', {'graph_html': graph_html})
 
 
 

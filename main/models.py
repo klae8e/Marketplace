@@ -166,3 +166,22 @@ class Favorite(models.Model):
 
     class Meta:
         db_table = 'favorites'
+
+
+class UserReview(models.Model):
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
+    category = models.ForeignKey(Category, on_delete=models.CASCADE)
+    model = models.ForeignKey(Model, on_delete=models.CASCADE)
+    text = models.TextField()
+    like_count = models.IntegerField(default=0)
+    dislike_count = models.IntegerField(default=0)
+    visible = models.IntegerField(default=1)
+    comment = models.IntegerField(default=0)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    def __str__(self):
+        return f"Review by {self.user.username} on {self.model.name}"
+
+    class Meta:
+        db_table = 'user_reviews'
