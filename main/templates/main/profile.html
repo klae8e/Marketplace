@@ -1,20 +1,48 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Profile</title>
-</head>
-<body>
-<h1>profile</h1>
-<h2>Hello {{ user.username }}!</h2>
-<form method="post" action="{% url 'main:logout' %}">
-  {% csrf_token %}
-  <button type="submit">Logout</button>
-</form>
-<br>
-<button onclick="location.href='{% url 'main:password_change' %}'">Password change</button>
-<br><br>
-<a href="{% url 'main:index' %}">Main</a><br><br>
-<a href="{% url 'main:profile' %}">Profile</a>
-</body>
-</html>
+{% extends 'main/layout.html' %}
+
+{% block title %}
+Профиль
+{% endblock %}
+
+{% block profile %}
+    {% if user.is_authenticated %}
+        <a style="color:white;" class="nav-link" href="{% url 'main:index' %}">Главная</a>
+    {% else %}
+        <a style="color:white;" class="nav-link" href="{% url 'main:login' %}">Войти</a>
+    {% endif %}
+{% endblock %}
+
+{% block logout %}
+        {% if user.is_authenticated %}
+        <form method="post" action="{% url 'main:logout' %}">
+              {% csrf_token %}
+              <input style="color:white;" class="nav-link" type="submit" value="Выйти">
+        </form>
+    {% else %}
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+<!-- Main contnent -->
+
+
+<div class="container mt-5">
+    <h2>Профиль</h2>
+    <br>
+    <h4>Здравствуйте, {{ user.username }}!</h4>
+    <br>
+    <p>Роль пользователя: {{ role }}</p>
+
+    {% if is_seller %}
+        <a href="{% url 'main:seller_panel' %}" class="btn btn-primary">Перейти на страницу продавца</a>
+        <br>
+        <br>
+    {% endif %}
+
+    <button class="btn btn-outline-secondary" onclick="location.href='{% url 'main:password_change' %}'">Сменить пароль</button>
+
+</div>
+
+
+<!-- End of Main contnent -->
+{% endblock %}

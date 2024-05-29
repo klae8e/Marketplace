@@ -1,14 +1,117 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-<h1>Main</h1>
-<a href="{% url 'main:login' %}">Login</a><br><br>
-<a href="{% url 'main:register' %}">Register</a><br><br>
-<a href="{% url 'main:profile' %}">Profile</a>
+{% extends 'main/layout.html' %}
+{% load humanize %}
+{% load static %}
+{% block title %}
+Главная страница
+{% endblock %}
 
-</body>
-</html>
+{% block profile %}
+    {% if user.is_authenticated %}
+        <a  style="color:white;" class="nav-link" href="{% url 'main:profile' %}">Профиль</a>
+    {% else %}
+        <a  style="color:white;" class="nav-link" href="{% url 'main:login' %}">Войти</a>
+    {% endif %}
+{% endblock %}
+
+{% block logout %}
+    {% if user.is_authenticated %}
+        <form method="post" action="{% url 'main:logout' %}">
+              {% csrf_token %}
+              <input style="color:white;" class="nav-link" type="submit" value="Выйти">
+        </form>
+    {% else %}
+    {% endif %}
+
+{% endblock %}
+
+{% block content %}
+<!-- Main contnent -->
+
+    <div class="container">
+        <div id="carouselExampleIndicators" class="carousel slide">
+          <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+          </div>
+          <div class="carousel-inner pt-5">
+            <div class="carousel-item active">
+              <img src="/static/main/img/carousel/galaxy.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+              <img src="/static/main/img/carousel/galaxy.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+              <img src="/static/main/img/carousel/galaxy.png" class="d-block w-100" alt="...">
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+
+        <h1 class="mt-4 mb-4">Популярные смартфоны</h1>
+        <div class="row">
+            {% for product in random_products %}
+
+            <div class="col-md-3 col-xs-6">
+                <a href="/category/{{ product.smartphone.category.id }}/{{ product.smartphone.model_id }}/" class="bg-card btn">
+                    <div class="card smartphone-card">
+                        <img src="{{ product.smartphone.img }}" class="card-img-top img-fluid p-5" alt="{{ product.smartphone.model.name }}">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ product.smartphone.brand.name }} {{ product.smartphone.model.name }}</h5>
+                            <p class="card-text mt-1">Цвет: {{ product.smartphone.color }}</p>
+                            <p class="card-text">Память: {{ product.smartphone.size }} GB</p>
+                            <p class="card-text">Цена: {{ product.price|intcomma }} тг.</p>
+
+                            <!--<p class="card-text">Bonus: {% if product.bonus %}{{ product.bonus }}{% else %}None{% endif %}</p>
+                            <p class="card-text">Market: {{ product.smartphone.market.name }}</p>-->
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            {% endfor %}
+        </div>
+    </div>
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>  <!-- Добавленная ссылка -->
+<script>
+$(document).ready(function() {
+    $('#search-input').autocomplete({
+        source: function(request, response) {
+            $.ajax({
+                url: '/autocomplete-products/',
+                data: { 'term': request.term },
+                success: function(data) {
+                    response(data);
+                }
+            });
+        },
+        minLength: 3  // Минимальное количество символов перед запросом
+
+    });
+});
+</script>
+
+<style>
+    .bg-card:hover{
+        background-color:#198754;
+    }
+    @media (max-width: 844px) {
+        .card-img-top {
+            max-width: 100%; /* Максимальная ширина изображения будет 100% ширины родительского элемента */
+            height: auto; /* Автоматическая высота, чтобы сохранить пропорции */
+        }
+    }
+</style>
+
+
+<!-- End of Main contnent -->
+{% endblock %}

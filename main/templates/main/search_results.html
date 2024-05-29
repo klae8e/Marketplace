@@ -1,0 +1,89 @@
+{% extends 'main/layout.html' %}
+{% load humanize %}
+{% block title %}
+Главная страница
+{% endblock %}
+
+
+{% block profile %}
+    {% if user.is_authenticated %}
+        <a style="color:white;" class="nav-link" href="{% url 'main:profile' %}">Профиль</a>
+    {% else %}
+        <a style="color:white;" class="nav-link" href="{% url 'main:login' %}">Войти</a>
+    {% endif %}
+{% endblock %}
+
+{% block logout %}
+    {% if user.is_authenticated %}
+        <form method="post" action="{% url 'main:logout' %}">
+              {% csrf_token %}
+              <input style="color:white;" class="nav-link" type="submit" value="Выйти">
+        </form>
+    {% else %}
+    {% endif %}
+
+{% endblock %}
+
+{% block content %}
+<!-- Main contnent -->
+
+<div class="container-fluid bg-color">
+    <div class="container nav-underline p-5">
+        <h6>Результат поиска</h6>
+        <h2 class="mb-5">Вы искали: {{ query }}</h2>
+        <div class="row mt-3">
+            {% if results %}
+                {% for product in results %}
+                    <div class="col-md-3 mb-3 text-center btn bg-card">
+                        <a class="nav-link mb-4" href="{% url 'main:product_detail' category_id=category_id model_id=product.smartphone.model_id %}">
+                            <div class="card smartphone-card">
+                                <img src="{{ product.smartphone.img }}" alt="{{ product.smartphone.model.name }}" class="img-fluid">
+                                <p>{{ product.smartphone.brand.name }} {{ product.smartphone.model.name }}</p>
+                                <p>Цена от: {% if product.min_price %}{{ product.min_price|intcomma }} тг.{% else %}N/A{% endif %}</p>
+                            </div>
+                        </a>
+
+                    </div>
+                    {% if forloop.counter|divisibleby:4 and not forloop.last %}
+                        </div><div class="row">
+                    {% endif %}
+                {% endfor %}
+            {% else %}
+                <p>По вашему запросу ничего не найдено.</p>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>  <!-- Добавленная ссылка -->
+<script>
+$(document).ready(function() {
+    $('#search-input').autocomplete({
+        source: function(request, response) {
+            $.ajax({
+                url: '/autocomplete-products/',
+                data: { 'term': request.term },
+                success: function(data) {
+                    response(data);
+                }
+            });
+        },
+        minLength: 3  // Минимальное количество символов перед запросом
+
+    });
+});
+</script>
+<style>
+    .bg-card:hover{
+        background-color:#198754;
+    }
+</style>
+
+
+<!-- End of Main contnent -->
+{% endblock %}
+

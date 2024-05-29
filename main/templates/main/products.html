@@ -1,0 +1,19 @@
+{% load humanize %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!-- your_app/templates/your_app/products.html -->
+<h1>Products</h1>
+<ul>
+    {% for product in products %}
+        <li>{{ product.product_name }} - <br>{{ product.price|intcomma }} тг.- <a href="{{ product.url }}">Купить!</a></li><br>
+        <!-- Добавьте другие поля по необходимости -->
+    {% endfor %}
+</ul>
+
+</body>
+</html>

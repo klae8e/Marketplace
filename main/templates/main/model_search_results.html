@@ -1,0 +1,19 @@
+<!-- model_search_results.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Model Search Results</title>
+</head>
+<body>
+    <h1>Model Search Results</h1>
+    <ul>
+        {% for result in results %}
+            <li>{{ result.name }} ({{ result.brand.name }})</li>
+        {% empty %}
+            <li>No results found.</li>
+        {% endfor %}
+    </ul>
+    <a href="{% url 'model_search' %}">Back to search</a>
+</body>
+</html>

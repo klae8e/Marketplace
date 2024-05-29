@@ -1,0 +1,169 @@
+
+{% extends 'main/layout.html' %}
+
+{% block title %}
+{{ model.brand.name }} {{ model.name }}
+{% endblock %}
+{% load humanize %}
+
+{% block profile %}
+    {% if user.is_authenticated %}
+        <a style="color:white;" class="nav-link" href="{% url 'main:profile' %}">Профиль</a>
+    {% else %}
+        <a style="color:white;" class="nav-link" href="{% url 'main:login' %}">Войти</a>
+    {% endif %}
+{% endblock %}
+
+{% block logout %}
+    {% if user.is_authenticated %}
+        <form method="post" action="{% url 'main:logout' %}">
+              {% csrf_token %}
+              <input style="color:white;" class="nav-link" type="submit" value="Выйти">
+        </form>
+    {% else %}
+    {% endif %}
+
+{% endblock %}
+
+{% block content %}
+<!-- Main contnent -->
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="mb-3">
+            <h4><a class="grnlink" href="javascript:history.back()">{{ category.name }}</a></h4>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-4">
+            {% for product in market_products %}
+
+                {% if product.smartphone.img and forloop.first %}
+                    <div class="img-fluid">
+                        <img class="img-fluid" src="{{ product.smartphone.img }}" alt="{{ product.smartphone.model }}">
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+        <div class="col-8 mt-5">
+            <h2>{{ model.brand.name }} {{ model.name }}</h2>
+            {% if min_price %}
+            <div>Минимальная цена от: <b>{{ min_price|intcomma }} тг.</b></div>
+        {% endif %}
+            <br>
+
+            <form action="{% url 'main:add_to_favorites' %}" method="post">
+                {% csrf_token %}
+                <input type="hidden" name="model_id" value="{{ model.id }}">
+                <button type="submit" class="btn btn-secondary">Добавить в избранное</button>
+            </form>
+
+
+
+
+
+        </div>
+        <div class="">
+
+            <h4 class="mt-3 mb-3">Продавцы</h4>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Продукты</th>
+                        <th>Цена</th>
+                        <th></th>
+
+                        {% if product.bonus %}<th>Market</th>{% endif %}
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    {% for product in market_products %}
+                    <tr>
+                        <td><a class="nav-link" href="{{ product.url }}">{{ product.smartphone.brand.name }} {{ product.smartphone.model.name }} {{ product.smartphone.size }} гб {{ product.smartphone.color }}</a></td>
+                        <td>{{ product.price|intcomma }} тг.</td>
+
+                        {% if product.bonus %}<td>{{ product.bonus }} бонусов </td>{% endif %}
+                        {% if product.bonus %}<td>{{ product.smartphone.market.name }}</td>{% endif %}
+                        <td><a class="btn btn-secondary" href="{{ product.url }}">Перейти</a></td>
+                        <td></td>
+                    </tr>
+                    {% endfor %}
+                    <tr>
+                        {% for product in seller_products %}
+                        <td>{{ product.brand.name }} {{ product.model.name }} {{ product.storage.size }} гб {{ product.color }}</td>
+
+                        <td>{{ product.price|intcomma  }} тг.</td>
+                        <td>
+                                                        <!-- Форма для добавления товара в корзину -->
+                            <form action="{% url 'main:add_to_cart' %}" method="post">
+                                {% csrf_token %}
+                                <!-- Поле с информацией о товаре, которое будет передано в представление для обработки добавления в корзину -->
+                                <input type="hidden" name="product_id" value="{{ product.id }}">
+                                <!-- Кнопка "Добавить в корзину" -->
+                                <button type="submit" class="btn btn-secondary">Добавить в корзину</button>
+                            </form>
+
+
+                        </td>
+                        <td>ID продавца: {{ product.seller_id }}</td>
+                        {% endfor %}
+                    </tr>
+                </tbody>
+            </table>
+            <!--<img src="{{ img_path }}" alt="График цен на товар">-->
+        </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>  <!-- Добавленная ссылка -->
+<script>
+$(document).ready(function() {
+    $('#search-input').autocomplete({
+        source: function(request, response) {
+            $.ajax({
+                url: '/autocomplete-products/',
+                data: { 'term': request.term },
+                success: function(data) {
+                    response(data);
+                }
+            });
+        },
+        minLength: 3  // Минимальное количество символов перед запросом
+
+    });
+});
+</script>
+
+<style>
+    a{
+        color:black;
+        text-decoration:none;
+    }
+    a:hover{
+        text-decoration:underline;
+        text-decoration-color: #198754;
+    }
+</style>
+
+<!-- End of Main contnent -->
+{% endblock %}

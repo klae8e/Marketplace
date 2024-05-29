@@ -1,0 +1,87 @@
+{% extends 'main/layout.html' %}
+{% load humanize %}
+{% block title %}
+Панель продавца
+{% endblock %}
+
+{% block profile %}
+    {% if user.is_authenticated %}
+        <a style="color:white;" class="nav-link" href="{% url 'main:index' %}">Главная</a>
+    {% else %}
+        <a style="color:white;" class="nav-link" href="{% url 'main:login' %}">Войти</a>
+    {% endif %}
+{% endblock %}
+
+{% block logout %}
+        {% if user.is_authenticated %}
+        <form method="post" action="{% url 'main:logout' %}">
+              {% csrf_token %}
+              <input style="color:white;" class="nav-link" type="submit" value="Выйти">
+        </form>
+    {% else %}
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+<!-- Main contnent -->
+
+
+<div class="container mt-5">
+    <h2>Панель продавца</h2>
+    <br>
+    <h4>Здравствуйте, {{ user.username }}!</h4>
+    <br>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Добавить продукт</button>
+    </form>
+    <br>
+    <h4>Ваши товары</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Категория</th>
+                <th>Бренд</th>
+                <th>Модель</th>
+                <th>Цвет</th>
+                <th>Память</th>
+                <th>Цена и количество</th>
+                <th>Описание</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for product in seller_products %}
+            <tr>
+                <td>{{ product.category }}</td>
+                <td>{{ product.brand }}</td>
+                <td>{{ product.model }}</td>
+                <td>{{ product.color }}</td>
+                <td>{{ product.storage }} ГБ</td>
+                <td>
+                    <form method="post" style="display:inline;">
+                        {% csrf_token %}
+                        <input type="hidden" name="product_id" value="{{ product.id }}">
+                        <input type="text" name="price" value="{{ product.price }}" size="8">
+                        <input type="text" name="quantity" value="{{ product.quantity }}" size="4">
+                        <button type="submit" name="update_product" class="btn btn-primary btn-sm">Обновить</button>
+                    </form>
+                </td>
+                <td>{{ product.description }}</td>
+                <td>
+                    <form method="post" style="display:inline;">
+                        {% csrf_token %}
+                        <input type="hidden" name="product_id" value="{{ product.id }}">
+                        <button type="submit" name="delete_product" class="btn btn-danger btn-sm">Удалить</button>
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+</div>
+
+
+<!-- End of Main contnent -->
+{% endblock %}

@@ -1,0 +1,4522 @@
+[
+    {
+        "id": 1,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-128gb-81286148-natural-titanium-mtux3-274404",
+        "product_name": "Apple iPhone 15 Pro 128/8GB Natural Titanium (MTUX3)",
+        "current_price": 599990,
+        "old_price": 664990,
+        "bonus": null
+    },
+    {
+        "id": 2,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-13-128gb-thx-61-12-5-midnight-252945",
+        "product_name": "Apple iPhone 13 128GB Midnight",
+        "current_price": 349990,
+        "old_price": 384990,
+        "bonus": null
+    },
+    {
+        "id": 3,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-11-128gb-black-mhdh3rma-228942",
+        "product_name": "Apple iPhone 11 128GB Black",
+        "current_price": 269990,
+        "old_price": 309990,
+        "bonus": null
+    },
+    {
+        "id": 4,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-pro-max-256gb-natural-titanium-mu793-274420",
+        "product_name": "Apple iPhone 15 Pro Max 256GB Natural Titanium (MU793)",
+        "current_price": 729990,
+        "old_price": 804990,
+        "bonus": null
+    },
+    {
+        "id": 5,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-a245fzkvskz-thx-65-50-4-galaxy-a24-128gb-black-271778",
+        "product_name": "Samsung Galaxy A24 128GB Black",
+        "current_price": 104890,
+        "old_price": 129990,
+        "bonus": 5244
+    },
+    {
+        "id": 6,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-y02t-64gb-cosmic-grey-273640",
+        "product_name": "Vivo Y02t 64/4GB Cosmic Grey",
+        "current_price": 54990,
+        "old_price": 59990,
+        "bonus": 2749
+    },
+    {
+        "id": 7,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y17s-thx-656-50-4-1284gb-forest-green-276059",
+        "product_name": "Vivo Y17s 128/4Gb Forest Green",
+        "current_price": 59990,
+        "old_price": 74990,
+        "bonus": 2999
+    },
+    {
+        "id": 8,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-128gb-black-mtp03-274372",
+        "product_name": "Apple iPhone 15 128GB Black (MTP03)",
+        "current_price": 449990,
+        "old_price": 524990,
+        "bonus": null
+    },
+    {
+        "id": 9,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-256gb-82566148-blue-titanium-mtv63-274409",
+        "product_name": "Apple iPhone 15 Pro 256/8GB Blue Titanium (MTV63)",
+        "current_price": 659990,
+        "old_price": 734990,
+        "bonus": null
+    },
+    {
+        "id": 10,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-xiaomi-redmi-13c-256gb8gb-thx-md-674-50-4-midnight-black-275983",
+        "product_name": "Redmi 13C 256GB/8GB Midnight Black",
+        "current_price": 74990,
+        "old_price": 79990,
+        "bonus": 3749
+    },
+    {
+        "id": 11,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y36-thx-664-50-4-256gb-meteor-black-273906",
+        "product_name": "Vivo Y36 256/8Gb Meteor Black",
+        "current_price": 124990,
+        "old_price": 149990,
+        "bonus": 6249
+    },
+    {
+        "id": 12,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-13-128gb-thx-61-12-5-starlight-252946",
+        "product_name": "Apple iPhone 13 128GB Starlight",
+        "current_price": 349990,
+        "old_price": 384990,
+        "bonus": null
+    },
+    {
+        "id": 13,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x8b-8256gb-glamorous-green-277253",
+        "product_name": "Honor X8b 8/256GB Glamorous Green",
+        "current_price": 149990,
+        "old_price": null,
+        "bonus": 7499
+    },
+    {
+        "id": 14,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-256gb-82566148-natural-titanium-mtv53-274408",
+        "product_name": "Apple iPhone 15 Pro 256/8GB Natural Titanium (MTV53)",
+        "current_price": 659990,
+        "old_price": 734990,
+        "bonus": null
+    },
+    {
+        "id": 15,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a05s-128gb-black-276033",
+        "product_name": "Samsung Galaxy A05s 128Gb Black",
+        "current_price": 79890,
+        "old_price": null,
+        "bonus": 3994
+    },
+    {
+        "id": 16,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y27s-thx-664-50-4-1288gb-burgundy-black-276060",
+        "product_name": "Vivo Y27s 128/8Gb Burgundy Black",
+        "current_price": 99990,
+        "old_price": 109990,
+        "bonus": 4999
+    },
+    {
+        "id": 17,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-13-pro-256gb8gb-thx-md-667-200-4-midnight-black-277296",
+        "product_name": "Redmi Note 13 Pro 256/8 GB Midnight Black",
+        "current_price": 149990,
+        "old_price": null,
+        "bonus": 7499
+    },
+    {
+        "id": 18,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-honor-x7b-812868108-midnight-black-276155",
+        "product_name": "Honor X7b 128GB Midnight Black",
+        "current_price": 99990,
+        "old_price": null,
+        "bonus": 4999
+    },
+    {
+        "id": 19,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-pro-max-256gb-blue-titanium-mu7a3-274421",
+        "product_name": "Apple iPhone 15 Pro Max 256GB Blue Titanium (MU7A3)",
+        "current_price": 729990,
+        "old_price": 804990,
+        "bonus": null
+    },
+    {
+        "id": 20,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s928bzthskz-thx-68-200-5-galaxy-s24-ultra-5g-512gb-titanium-gray-277518",
+        "product_name": "Samsung Galaxy S24 Ultra 5G 512/12GB Titanium Gray",
+        "current_price": 769890,
+        "old_price": 844990,
+        "bonus": 38494
+    },
+    {
+        "id": 21,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-pro-max-256gb-black-titanium-mu773-274418",
+        "product_name": "Apple iPhone 15 Pro Max 256GB Black Titanium (MU773)",
+        "current_price": 729990,
+        "old_price": 804990,
+        "bonus": null
+    },
+    {
+        "id": 22,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x9b-256gb-midnight-black-275781",
+        "product_name": "Honor X9b 256GB Midnight Black",
+        "current_price": 179990,
+        "old_price": null,
+        "bonus": 8999
+    },
+    {
+        "id": 23,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a15-128gb-blue-black-277335",
+        "product_name": "Samsung Galaxy A15 128GB Blue black",
+        "current_price": 109890,
+        "old_price": null,
+        "bonus": 5494
+    },
+    {
+        "id": 24,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a54-128gb-black-271144",
+        "product_name": "Samsung Galaxy A54 128GB Black",
+        "current_price": 199890,
+        "old_price": 229990,
+        "bonus": 9994
+    },
+    {
+        "id": 39,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a54-256gb-black-271148",
+        "product_name": "Samsung Galaxy A54 256GB Black",
+        "current_price": 219890,
+        "old_price": 249990,
+        "bonus": 10994
+    },
+    {
+        "id": 40,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y17s-thx-656-50-4-128gb-forest-green-274196",
+        "product_name": "Vivo Y17s 128/6Gb Forest Green",
+        "current_price": 74990,
+        "old_price": 89990,
+        "bonus": 3749
+    },
+    {
+        "id": 41,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y36-thx-664-50-4-256gb-vibrant-gold-273907",
+        "product_name": "Vivo Y36 256/8Gb Vibrant Gold",
+        "current_price": 124990,
+        "old_price": 149990,
+        "bonus": 6249
+    },
+    {
+        "id": 42,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-pro-max-512gb-natural-titanium-mu7e3-274424",
+        "product_name": "Apple iPhone 15 Pro Max 512GB Natural Titanium (MU7E3)",
+        "current_price": 849990,
+        "old_price": 944990,
+        "bonus": null
+    },
+    {
+        "id": 43,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-a346ezkaskz-thx-66-48-4-galaxy-a34-128gb-black-271092",
+        "product_name": "Samsung Galaxy A34 128GB Black",
+        "current_price": 149890,
+        "old_price": 189990,
+        "bonus": 7494
+    },
+    {
+        "id": 44,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a18-128gb-thx-ad-656-8-4-glowing-black-275774",
+        "product_name": "OPPO A18 128GB Glowing Black",
+        "current_price": 69990,
+        "old_price": 79990,
+        "bonus": 3499
+    },
+    {
+        "id": 45,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-128gb-blue-mtp43-274375",
+        "product_name": "Apple iPhone 15 128GB Blue (MTP43)",
+        "current_price": 449990,
+        "old_price": 524990,
+        "bonus": null
+    },
+    {
+        "id": 46,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-honor-x5-plus-64gb4gb-thx-656-50-4-cyan-lake-273113",
+        "product_name": "Honor X5 Plus 64GB Cyan Lake",
+        "current_price": 54990,
+        "old_price": 64990,
+        "bonus": 2749
+    },
+    {
+        "id": 47,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-v29e-256gb-forest-black-275512",
+        "product_name": "Vivo V29e 256Gb Forest Black",
+        "current_price": 219990,
+        "old_price": null,
+        "bonus": 10999
+    },
+    {
+        "id": 48,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s928bzkhskz-thx-68-200-5-galaxy-s24-ultra-5g-512gb-titanium-black-277519",
+        "product_name": "Samsung Galaxy S24 Ultra 5G 512/12GB Titanium Black",
+        "current_price": 769890,
+        "old_price": 844990,
+        "bonus": 38494
+    },
+    {
+        "id": 49,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-xiaomi-redmi-13c-256gb8gb-thx-md-674-50-4-navy-blue-275984",
+        "product_name": "Xiaomi Redmi 13C 256GB/8GB Navy Blue",
+        "current_price": 74990,
+        "old_price": 79990,
+        "bonus": 3749
+    },
+    {
+        "id": 50,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-honor-x5-plus-64gb4gb-thx-656-50-4-midnight-black-273112",
+        "product_name": "Honor X5 Plus 64GB Midnight Black",
+        "current_price": 54990,
+        "old_price": 64990,
+        "bonus": 2749
+    },
+    {
+        "id": 51,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-128gb-thx-61-12-5-midnight-265269",
+        "product_name": "Apple iPhone 14 128GB Midnight",
+        "current_price": 454990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 52,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-xiaomi-redmi-13c-128gb6gb-thx-md-674-50-4-midnight-black-275979",
+        "product_name": "Redmi 13C 128GB/6GB Midnight Black",
+        "current_price": 64990,
+        "old_price": 69990,
+        "bonus": 3249
+    },
+    {
+        "id": 53,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-11-64gb-black-mhda3rma-228936",
+        "product_name": "Apple iPhone 11 64GB Black",
+        "current_price": 239990,
+        "old_price": 274990,
+        "bonus": null
+    },
+    {
+        "id": 54,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y17s-thx-656-50-4-1284gb-glitter-purple-276058",
+        "product_name": "Vivo Y17s 128/4 Gb Glitter Purple",
+        "current_price": 59990,
+        "old_price": 74990,
+        "bonus": 2999
+    },
+    {
+        "id": 55,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a25-5g-128gb-blue-black-277337",
+        "product_name": "Samsung Galaxy A25 5G 128GB Blue black",
+        "current_price": 149890,
+        "old_price": null,
+        "bonus": 7494
+    },
+    {
+        "id": 56,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a78-256gb-thx-ad-643-50-4-mist-black-273654",
+        "product_name": "OPPO A78 256GB Mist Black",
+        "current_price": 129990,
+        "old_price": 139990,
+        "bonus": 6499
+    },
+    {
+        "id": 57,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-a245fdrvskz-thx-65-50-4-galaxy-a24-128gb-red-271776",
+        "product_name": "Samsung Galaxy A24 128GB Red",
+        "current_price": 104890,
+        "old_price": 129990,
+        "bonus": 5244
+    },
+    {
+        "id": 58,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a05s-128gb-silver-276034",
+        "product_name": "Samsung Galaxy A05s 128Gb Silver",
+        "current_price": 79890,
+        "old_price": null,
+        "bonus": 3994
+    },
+    {
+        "id": 59,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-honor-x6a-128gb4gb-thx-656-50-4-midnight-black-273109",
+        "product_name": "Honor X6a 128GB Midnight Black",
+        "current_price": 64990,
+        "old_price": 79990,
+        "bonus": 3249
+    },
+    {
+        "id": 60,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-y02t-64gb-orchid-blue-273641",
+        "product_name": "Vivo Y02t 64/4GB Orchid Blue",
+        "current_price": 54990,
+        "old_price": 59990,
+        "bonus": 2749
+    },
+    {
+        "id": 61,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x8b-8256gb-midnight-black-277252",
+        "product_name": "Honor X8b 8/256GB Midnight Black",
+        "current_price": 149990,
+        "old_price": null,
+        "bonus": 7499
+    },
+    {
+        "id": 62,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-128gb-81286148-black-titanium-mtuv3-274402",
+        "product_name": "Apple iPhone 15 Pro 128/8GB Black Titanium (MTUV3)",
+        "current_price": 599990,
+        "old_price": 664990,
+        "bonus": null
+    },
+    {
+        "id": 63,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-128gb-pink-mtp13-274373",
+        "product_name": "Apple iPhone 15 128GB Pink (MTP13)",
+        "current_price": 449990,
+        "old_price": 524990,
+        "bonus": null
+    },
+    {
+        "id": 64,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-13-128gb8gb-thx-md-667-108-4-midnight-black-277327",
+        "product_name": "Redmi Note 13 128/8 GB Midnight Black",
+        "current_price": 109990,
+        "old_price": null,
+        "bonus": 5499
+    },
+    {
+        "id": 65,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-13-128gb-thx-61-12-5-blue-252949",
+        "product_name": "Apple iPhone 13 128GB Blue",
+        "current_price": 349990,
+        "old_price": 384990,
+        "bonus": null
+    },
+    {
+        "id": 66,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s24-5g-256gb-onyx-black-277503",
+        "product_name": "Samsung Galaxy S24 5G 256GB Onyx Black",
+        "current_price": 499890,
+        "old_price": 534990,
+        "bonus": 24994
+    },
+    {
+        "id": 67,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a05-64gb-black-276036",
+        "product_name": "Samsung Galaxy A05 64Gb Black",
+        "current_price": 64890,
+        "old_price": null,
+        "bonus": 3244
+    },
+    {
+        "id": 68,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x9b-256gb-emerald-green-275782",
+        "product_name": "Honor X9b 256GB Emerald Green",
+        "current_price": 179990,
+        "old_price": null,
+        "bonus": 8999
+    },
+    {
+        "id": 69,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x7a-plus-6128-titanium-silver-272178",
+        "product_name": "Honor X7a Plus 6+128, Titanium Silver",
+        "current_price": 74990,
+        "old_price": 109990,
+        "bonus": 3749
+    },
+    {
+        "id": 70,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s928bzvhskz-thx-68-200-5-galaxy-s24-ultra-5g-512gb-titanium-violet-277517",
+        "product_name": "Samsung Galaxy S24 Ultra 5G 512/12GB Titanium Violet",
+        "current_price": 769890,
+        "old_price": 844990,
+        "bonus": 38494
+    },
+    {
+        "id": 71,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-a346ezkeskz-thx-66-48-4-galaxy-a34-256gb-black-271096",
+        "product_name": "Samsung Galaxy A34 256GB Black",
+        "current_price": 179890,
+        "old_price": 209990,
+        "bonus": 8994
+    },
+    {
+        "id": 72,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s916bzkgskz-thx-66-50-5-galaxy-s23-512gb-black-269590",
+        "product_name": "Samsung Galaxy S23+ 512GB Black",
+        "current_price": 459890,
+        "old_price": 669990,
+        "bonus": 22994
+    },
+    {
+        "id": 73,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s918bzghskz-galaxy-s23-ultra-512gb-green-269597",
+        "product_name": "Samsung Galaxy S23 Ultra 512GB Green",
+        "current_price": 599890,
+        "old_price": 819990,
+        "bonus": 29994
+    },
+    {
+        "id": 74,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-13-256gb8gb-thx-md-667-108-4-midnight-black-277330",
+        "product_name": "Redmi Note 13 256/8 GB Midnight Black",
+        "current_price": 119990,
+        "old_price": null,
+        "bonus": 5999
+    },
+    {
+        "id": 75,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-honor-x7b-812868108-flowing-silver-276157",
+        "product_name": "Honor X7b 128GB Flowing Silver",
+        "current_price": 99990,
+        "old_price": null,
+        "bonus": 4999
+    },
+    {
+        "id": 76,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-256gb-82566148-black-titanium-mtv13-274406",
+        "product_name": "Apple iPhone 15 Pro 256/8GB Black Titanium (MTV13)",
+        "current_price": 659990,
+        "old_price": 734990,
+        "bonus": null
+    },
+    {
+        "id": 77,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-note-13-pro-512gb12gb-midnight-black-277344",
+        "product_name": "Redmi Note 13 Pro+ 512GB/12GB Midnight Black",
+        "current_price": 249990,
+        "old_price": null,
+        "bonus": 12499
+    },
+    {
+        "id": 78,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a14-128gb-black-271088",
+        "product_name": "Samsung Galaxy A14 128GB Black",
+        "current_price": 99890,
+        "old_price": null,
+        "bonus": 4994
+    },
+    {
+        "id": 79,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s928bzyhskz-thx-68-200-5-galaxy-s24-ultra-5g-512gb-titanium-yellow-277516",
+        "product_name": "Samsung Galaxy S24 Ultra 5G 512/12GB Titanium Yellow",
+        "current_price": 769890,
+        "old_price": 844990,
+        "bonus": 38494
+    },
+    {
+        "id": 80,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s24-5g-512gb-onyx-black-277511",
+        "product_name": "Samsung Galaxy S24+ 5G 512GB Onyx Black",
+        "current_price": 614890,
+        "old_price": 684990,
+        "bonus": 30744
+    },
+    {
+        "id": 81,
+        "url": "https://www.technodom.kz/p/smartfon-honor-90-lite-8256gb-midnight-black-272837",
+        "product_name": "Honor 90 Lite 8+256GB Midnight Black",
+        "current_price": 129990,
+        "old_price": 169990,
+        "bonus": 6499
+    },
+    {
+        "id": 82,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-honor-x7b-812868108-emerald-green-276156",
+        "product_name": "Honor X7b 128GB Emerald Green",
+        "current_price": 99990,
+        "old_price": null,
+        "bonus": 4999
+    },
+    {
+        "id": 83,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a05s-128gb-light-violet-276032",
+        "product_name": "Samsung Galaxy A05s 128Gb Light Violet",
+        "current_price": 79890,
+        "old_price": null,
+        "bonus": 3994
+    },
+    {
+        "id": 84,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-honor-x6a-128gb4gb-thx-656-50-4-cyan-lake-273110",
+        "product_name": "Honor X6a 128GB Cyan Lake",
+        "current_price": 64990,
+        "old_price": 79990,
+        "bonus": 3249
+    },
+    {
+        "id": 85,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-v29-256gb-noble-black-274198",
+        "product_name": "Vivo V29 256Gb Noble Black",
+        "current_price": 289990,
+        "old_price": null,
+        "bonus": 14499
+    },
+    {
+        "id": 86,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s24-5g-256gb-marble-gray-277502",
+        "product_name": "Samsung Galaxy S24 5G 256GB Marble Gray",
+        "current_price": 499890,
+        "old_price": 534990,
+        "bonus": 24994
+    },
+    {
+        "id": 87,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-v27e-thx-662-64-8-128gb-glory-black-271233",
+        "product_name": "Vivo V27E 128Gb Glory Black",
+        "current_price": 179990,
+        "old_price": null,
+        "bonus": 8999
+    },
+    {
+        "id": 88,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-honor-x6a-128gb4gb-thx-656-50-4-sky-silver-273111",
+        "product_name": "Honor X6a 128GB Sky Silver",
+        "current_price": 64990,
+        "old_price": 79990,
+        "bonus": 3249
+    },
+    {
+        "id": 89,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-13-256gb-thx-61-12-5-midnight-252950",
+        "product_name": "Apple iPhone 13 256GB Midnight",
+        "current_price": 429990,
+        "old_price": 454990,
+        "bonus": null
+    },
+    {
+        "id": 90,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a38-thx-656-50-4-128gb-glowing-black-274316",
+        "product_name": "OPPO A38 128/4Gb Glowing Black",
+        "current_price": 84990,
+        "old_price": 99990,
+        "bonus": 4249
+    },
+    {
+        "id": 91,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-13-pro-256gb8gb-thx-md-667-200-4-forest-green-277298",
+        "product_name": "Redmi Note 13 Pro 256/8 GB Forest Green",
+        "current_price": 149990,
+        "old_price": null,
+        "bonus": 7499
+    },
+    {
+        "id": 92,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x8b-8128gb-midnight-black-277254",
+        "product_name": "Honor X8b 8/128GB Midnight Black",
+        "current_price": 134990,
+        "old_price": null,
+        "bonus": 6749
+    },
+    {
+        "id": 93,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s928bztgskz-thx-68-200-5-galaxy-s24-ultra-5g-256gb-titanium-gray-277514",
+        "product_name": "Samsung Galaxy S24 Ultra 5G 256/12GB Titanium Gray",
+        "current_price": 769890,
+        "old_price": null,
+        "bonus": 38494
+    },
+    {
+        "id": 94,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a78-256gb-thx-ad-643-50-4-aqua-green-273653",
+        "product_name": "OPPO A78 256GB Aqua Green",
+        "current_price": 129990,
+        "old_price": 139990,
+        "bonus": 6499
+    },
+    {
+        "id": 95,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s916bzggskz-thx-66-50-5-galaxy-s23-512gb-green-269589",
+        "product_name": "Samsung Galaxy S23+ 512GB Green",
+        "current_price": 459890,
+        "old_price": 669990,
+        "bonus": 22994
+    },
+    {
+        "id": 96,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-11-128gb-white-mhdj3rma-228943",
+        "product_name": "Apple iPhone 11 128GB White",
+        "current_price": 269990,
+        "old_price": 309990,
+        "bonus": null
+    },
+    {
+        "id": 97,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a05-64gb-light-green-276035",
+        "product_name": "Samsung Galaxy A05 64Gb Light Green",
+        "current_price": 64890,
+        "old_price": null,
+        "bonus": 3244
+    },
+    {
+        "id": 98,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-128gb-81286148-blue-titanium-mtv03-274405",
+        "product_name": "Apple iPhone 15 Pro 128/8GB Blue Titanium (MTV03)",
+        "current_price": 599990,
+        "old_price": 664990,
+        "bonus": null
+    },
+    {
+        "id": 99,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a15-128gb-blue-277334",
+        "product_name": "Samsung Galaxy A15 128GB Blue",
+        "current_price": 109890,
+        "old_price": null,
+        "bonus": 5494
+    },
+    {
+        "id": 100,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s21-fe-128gb-gray-263963",
+        "product_name": "Samsung Galaxy S21 FE 128GB Gray New",
+        "current_price": 269890,
+        "old_price": 349990,
+        "bonus": 13494
+    },
+    {
+        "id": 101,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s23-fe-5g-128gb-graphite-275675",
+        "product_name": "Samsung Galaxy S23 FE 5G 128GB Graphite",
+        "current_price": 329890,
+        "old_price": 349990,
+        "bonus": 16494
+    },
+    {
+        "id": 102,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a15-128gb-light-blue-277333",
+        "product_name": "Samsung Galaxy A15 128GB Light blue",
+        "current_price": 109890,
+        "old_price": null,
+        "bonus": 5494
+    },
+    {
+        "id": 103,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-v29e-256gb-rose-gold-275513",
+        "product_name": "Vivo V29e 256Gb Rose Gold",
+        "current_price": 219990,
+        "old_price": null,
+        "bonus": 10999
+    },
+    {
+        "id": 104,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s928bzvgskz-thx-68-200-5-galaxy-s24-ultra-5g-256gb-titanium-violet-277513",
+        "product_name": "Samsung Galaxy S24 Ultra 5G 256/12GB Titanium Violet",
+        "current_price": 769890,
+        "old_price": null,
+        "bonus": 38494
+    },
+    {
+        "id": 105,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-v27e-thx-662-64-8-128gb-lively-green-271234",
+        "product_name": "Vivo V27E 128Gb Lively Green",
+        "current_price": 179990,
+        "old_price": null,
+        "bonus": 8999
+    },
+    {
+        "id": 106,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-a346elgaskz-thx-66-48-4-galaxy-a34-128gb-green-271090",
+        "product_name": "Samsung Galaxy A34 128GB Green",
+        "current_price": 149890,
+        "old_price": 189990,
+        "bonus": 7494
+    },
+    {
+        "id": 107,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-pro-max-512gb-blue-titanium-mu7f3-274425",
+        "product_name": "Apple iPhone 15 Pro Max 512GB Blue Titanium (MU7F3)",
+        "current_price": 849990,
+        "old_price": 944990,
+        "bonus": null
+    },
+    {
+        "id": 108,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x7a-plus-6128-midnight-black-272176",
+        "product_name": "Honor X7a Plus 6+128, Midnight black",
+        "current_price": 74990,
+        "old_price": 109990,
+        "bonus": 3749
+    },
+    {
+        "id": 109,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-128gb-thx-61-12-5-starlight-265270",
+        "product_name": "Apple iPhone 14 128GB Starlight",
+        "current_price": 454990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 110,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-xiaomi-redmi-13c-128gb6gb-thx-md-674-50-4-navy-blue-275980",
+        "product_name": "Xiaomi Redmi 13C 128GB/6GB Navy Blue",
+        "current_price": 64990,
+        "old_price": 69990,
+        "bonus": 3249
+    },
+    {
+        "id": 111,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-13-pro-256gb8gb-thx-md-667-200-4-lavender-purple-277297",
+        "product_name": "Redmi Note 13 Pro 256/8 GB Lavender Purple",
+        "current_price": 149990,
+        "old_price": null,
+        "bonus": 7499
+    },
+    {
+        "id": 112,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-256gb-space-black-265303",
+        "product_name": "Apple iPhone 14 Pro 256GB Space Black",
+        "current_price": 659990,
+        "old_price": 699990,
+        "bonus": null
+    },
+    {
+        "id": 113,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-512gb-deep-purple-265310",
+        "product_name": "Apple iPhone 14 Pro 512GB Deep Purple",
+        "current_price": 799990,
+        "old_price": 839990,
+        "bonus": null
+    },
+    {
+        "id": 114,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-13-pro-512gb12gb-thx-md-667-200-4-midnight-black-277299",
+        "product_name": "Redmi Note 13 Pro 512/12 GB Midnight Black",
+        "current_price": 189990,
+        "old_price": null,
+        "bonus": 9499
+    },
+    {
+        "id": 115,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-reno8t-256gb-thx-md-643-100-4-midnight-black-273148",
+        "product_name": "OPPO Reno 8T 256GB Midnight Black",
+        "current_price": 159990,
+        "old_price": 179990,
+        "bonus": 7999
+    },
+    {
+        "id": 116,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-max-256gb-space-black-265319",
+        "product_name": "Apple iPhone 14 Pro Max 256GB Space Black",
+        "current_price": 757090,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 117,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a18-128gb-thx-ad-656-8-4-glowing-blue-275775",
+        "product_name": "OPPO A18 128GB Glowing Blue",
+        "current_price": 69990,
+        "old_price": 79990,
+        "bonus": 3499
+    },
+    {
+        "id": 118,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-plus-256gb-62566748-pink-mu193-274393",
+        "product_name": "Apple iPhone 15 Plus 256GB Pink (MU193)",
+        "current_price": 664990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 119,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-a346ezseskz-thx-66-48-4-galaxy-a34-256gb-silver-271097",
+        "product_name": "Samsung Galaxy A34 256GB Silver",
+        "current_price": 179890,
+        "old_price": 209990,
+        "bonus": 8994
+    },
+    {
+        "id": 120,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s928bzkgskz-thx-68-200-5-galaxy-s24-ultra-5g-256gb-titanium-black-277515",
+        "product_name": "Samsung Galaxy S24 Ultra 5G 256/12GB Titanium Black",
+        "current_price": 769890,
+        "old_price": null,
+        "bonus": 38494
+    },
+    {
+        "id": 121,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s918bzehskz-galaxy-s23-ultra-512gb-beige-269596",
+        "product_name": "Samsung Galaxy S23 Ultra 512GB Beige",
+        "current_price": 599890,
+        "old_price": 819990,
+        "bonus": 29994
+    },
+    {
+        "id": 122,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-256gb-blue-mtp93-274380",
+        "product_name": "Apple iPhone 15 256GB Blue (MTP93)",
+        "current_price": 529990,
+        "old_price": 594990,
+        "bonus": null
+    },
+    {
+        "id": 123,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-a346ezsaskz-thx-66-48-4-galaxy-a34-128gb-silver-271093",
+        "product_name": "Samsung Galaxy A34 128GB Silver",
+        "current_price": 149890,
+        "old_price": 189990,
+        "bonus": 7494
+    },
+    {
+        "id": 124,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-max-128gb-deep-purple-265318",
+        "product_name": "Apple iPhone 14 Pro Max 128GB Deep Purple",
+        "current_price": 699990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 125,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s911bzkgskz-thx-61-50-5-galaxy-s23-256gb-black-269582",
+        "product_name": "Samsung Galaxy S23 256GB Black",
+        "current_price": 399890,
+        "old_price": 529990,
+        "bonus": 19994
+    },
+    {
+        "id": 126,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s24-5g-256gb-marble-gray-277506",
+        "product_name": "Samsung Galaxy S24+ 5G 256GB Marble Gray",
+        "current_price": 614890,
+        "old_price": null,
+        "bonus": 30744
+    },
+    {
+        "id": 127,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-256gb-black-mtp63-274377",
+        "product_name": "Apple iPhone 15 256GB Black (MTP63)",
+        "current_price": 529990,
+        "old_price": 594990,
+        "bonus": null
+    },
+    {
+        "id": 128,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-256gb-thx-61-12-5-midnight-265274",
+        "product_name": "Apple iPhone 14 256GB Midnight",
+        "current_price": 524990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 129,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-256gb-82566148-white-titanium-mtv43-274407",
+        "product_name": "Apple iPhone 15 Pro 256/8GB White Titanium (MTV43)",
+        "current_price": 659990,
+        "old_price": 734990,
+        "bonus": null
+    },
+    {
+        "id": 130,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y02t-thx-651-8-4-128gb-cosmic-grey-274199",
+        "product_name": "Vivo Y02t 128Gb Cosmic Grey",
+        "current_price": 59990,
+        "old_price": 69990,
+        "bonus": 2999
+    },
+    {
+        "id": 131,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x7a-plus-6128-ocean-blue-272177",
+        "product_name": "Honor X7a Plus 6+128, Ocean Blue",
+        "current_price": 74990,
+        "old_price": 109990,
+        "bonus": 3749
+    },
+    {
+        "id": 132,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-128gb-81286148-white-titanium-mtuw3-274403",
+        "product_name": "Apple iPhone 15 Pro 128/8GB White Titanium (MTUW3)",
+        "current_price": 599990,
+        "old_price": 664990,
+        "bonus": null
+    },
+    {
+        "id": 133,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-max-128gb-gold-265317",
+        "product_name": "Apple iPhone 14 Pro Max 128GB Gold",
+        "current_price": 699990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 134,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-a346elvaskz-thx-66-48-4-galaxy-a34-128gb-violet-271091",
+        "product_name": "Samsung Galaxy A34 128GB Violet",
+        "current_price": 149890,
+        "old_price": 189990,
+        "bonus": 7494
+    },
+    {
+        "id": 135,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y27s-thx-664-50-4-1288gb-garden-green-276061",
+        "product_name": "Vivo Y27s 128/8Gb Garden Green",
+        "current_price": 99990,
+        "old_price": 109990,
+        "bonus": 4999
+    },
+    {
+        "id": 136,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a58-128gb-thx-ad-656-50-4-black-273656",
+        "product_name": "OPPO A58 128GB Black",
+        "current_price": 109990,
+        "old_price": 119990,
+        "bonus": 5499
+    },
+    {
+        "id": 137,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-reno8t-128gb-thx-md-643-100-4-sunset-orange-270224",
+        "product_name": "OPPO Reno8T 128GB Sunset Orange",
+        "current_price": 149990,
+        "old_price": 179990,
+        "bonus": 7499
+    },
+    {
+        "id": 138,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-a2-64gb-black-273102",
+        "product_name": "Redmi A2+ 64GB Black",
+        "current_price": 42990,
+        "old_price": null,
+        "bonus": 2149
+    },
+    {
+        "id": 139,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a05-64gb-silver-276037",
+        "product_name": "Samsung Galaxy A05 64Gb Silver",
+        "current_price": 64890,
+        "old_price": null,
+        "bonus": 3244
+    },
+    {
+        "id": 140,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a54-256gb-green-271146",
+        "product_name": "Samsung Galaxy A54 256GB Green",
+        "current_price": 219890,
+        "old_price": 249990,
+        "bonus": 10994
+    },
+    {
+        "id": 141,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a54-256gb-violet-271147",
+        "product_name": "Samsung Galaxy A54 256GB Violet",
+        "current_price": 219890,
+        "old_price": 249990,
+        "bonus": 10994
+    },
+    {
+        "id": 142,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-note-13-pro-512gb12gb-moonlight-white-277346",
+        "product_name": "Redmi Note 13 Pro+ 512GB/12GB Moonlight White",
+        "current_price": 249990,
+        "old_price": null,
+        "bonus": 12499
+    },
+    {
+        "id": 143,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-128gb-thx-61-12-5-purple-265271",
+        "product_name": "Apple iPhone 14 128GB Purple",
+        "current_price": 454990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 144,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a38-thx-656-50-4-128gb-glowing-gold-274317",
+        "product_name": "OPPO A38 128/4Gb Glowing Gold",
+        "current_price": 84990,
+        "old_price": 99990,
+        "bonus": 4249
+    },
+    {
+        "id": 145,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x8b-8128gb-titanium-silver-277255",
+        "product_name": "Honor X8b 8/128GB Titanium Silver",
+        "current_price": 134990,
+        "old_price": null,
+        "bonus": 6749
+    },
+    {
+        "id": 146,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a25-5g-128gb-light-blue-277336",
+        "product_name": "Samsung Galaxy A25 5G 128GB Light blue",
+        "current_price": 149890,
+        "old_price": null,
+        "bonus": 7494
+    },
+    {
+        "id": 147,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y02t-thx-651-8-4-128gb-orchid-blue-274200",
+        "product_name": "Vivo Y02t 128Gb Orchid Blue",
+        "current_price": 59990,
+        "old_price": 69990,
+        "bonus": 2999
+    },
+    {
+        "id": 148,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-13-128gb-green-258948",
+        "product_name": "Apple iPhone 13 128GB Green",
+        "current_price": 349990,
+        "old_price": 384990,
+        "bonus": null
+    },
+    {
+        "id": 149,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x8a-6-128-midnight-black-272173",
+        "product_name": "Honor X8a 6+128GB, Midnight Black",
+        "current_price": 99990,
+        "old_price": 149990,
+        "bonus": 4999
+    },
+    {
+        "id": 150,
+        "url": "https://www.technodom.kz/p/smartfon-honor-90-8256-midnight-black-272834",
+        "product_name": "Honor 90 8+256 Midnight Black",
+        "current_price": 249990,
+        "old_price": 279990,
+        "bonus": 12499
+    },
+    {
+        "id": 151,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-13-128gb-thx-61-12-5-red-252948",
+        "product_name": "Apple iPhone 13 128GB Red",
+        "current_price": 349990,
+        "old_price": 384990,
+        "bonus": null
+    },
+    {
+        "id": 152,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-12-256gb8gb-thx-md-667-50-4-ice-blue-273122",
+        "product_name": "Redmi Note 12 256GB/8GB Ice Blue",
+        "current_price": 89990,
+        "old_price": 109990,
+        "bonus": 4499
+    },
+    {
+        "id": 153,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-v29-256gb-peak-blue-274197",
+        "product_name": "Vivo V29 256Gb Peak Blue",
+        "current_price": 289990,
+        "old_price": null,
+        "bonus": 14499
+    },
+    {
+        "id": 154,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-pro-max-512gb-white-titanium-mu7d3-274423",
+        "product_name": "Apple iPhone 15 Pro Max 512GB White Titanium (MU7D3)",
+        "current_price": 849990,
+        "old_price": 944990,
+        "bonus": null
+    },
+    {
+        "id": 155,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-note-13-pro-512gb12gb-lavender-purple-277345",
+        "product_name": "Redmi Note 13 Pro+ 512GB/12GB Lavender Purple",
+        "current_price": 249990,
+        "old_price": null,
+        "bonus": 12499
+    },
+    {
+        "id": 156,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y17s-thx-656-50-4-128gb-glitter-purple-274195",
+        "product_name": "Vivo Y17s 128/6Gb Glitter Purple",
+        "current_price": 74990,
+        "old_price": 89990,
+        "bonus": 3749
+    },
+    {
+        "id": 157,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-pro-max-512gb-black-titanium-mu7c3-274422",
+        "product_name": "Apple iPhone 15 Pro Max 512GB Black Titanium (MU7C3)",
+        "current_price": 849990,
+        "old_price": 944990,
+        "bonus": null
+    },
+    {
+        "id": 158,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-13-pro-512gb12gb-thx-md-667-200-4-forest-green-277300",
+        "product_name": "Redmi Note 13 Pro 512/12 GB Forest Green",
+        "current_price": 189990,
+        "old_price": null,
+        "bonus": 9499
+    },
+    {
+        "id": 159,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-xiaomi-13-pro-512gb12gb-thx-md-673-50-5-ceramic-black-270287",
+        "product_name": "Xiaomi 13 PRO 512GB Ceramic Black",
+        "current_price": 599990,
+        "old_price": 749990,
+        "bonus": 29999
+    },
+    {
+        "id": 160,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-12-128gb4gb-midnight-black-271854",
+        "product_name": "Redmi 12 128GB/4GB Midnight Black",
+        "current_price": 79990,
+        "old_price": 89990,
+        "bonus": 3999
+    },
+    {
+        "id": 161,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x9b-256gb-sunrise-orange-275783",
+        "product_name": "Honor X9b 256GB Sunrise Orange",
+        "current_price": 179990,
+        "old_price": null,
+        "bonus": 8999
+    },
+    {
+        "id": 162,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a54-128gb-violet-271143",
+        "product_name": "Samsung Galaxy A54 128GB Violet",
+        "current_price": 199890,
+        "old_price": 229990,
+        "bonus": 9994
+    },
+    {
+        "id": 163,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-pro-max-256gb-white-titanium-mu783-274419",
+        "product_name": "Apple iPhone 15 Pro Max 256GB White Titanium (MU783)",
+        "current_price": 729990,
+        "old_price": 804990,
+        "bonus": null
+    },
+    {
+        "id": 164,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s23-fe-5g-256gb-graphite-275679",
+        "product_name": "Samsung Galaxy S23 FE 5G 256GB Graphite",
+        "current_price": 364890,
+        "old_price": 384990,
+        "bonus": 18244
+    },
+    {
+        "id": 165,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s24-5g-128gb-onyx-black-277499",
+        "product_name": "Samsung Galaxy S24 5G 128GB Onyx Black",
+        "current_price": 499890,
+        "old_price": null,
+        "bonus": 24994
+    },
+    {
+        "id": 166,
+        "url": "https://www.technodom.kz/p/smartfon-honor-90-lite-8256gb-titanium-silver-272969",
+        "product_name": "Honor 90 Lite 8+256GB Titanium Silver",
+        "current_price": 129990,
+        "old_price": 169990,
+        "bonus": 6499
+    },
+    {
+        "id": 167,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-13-128gb8gb-thx-md-667-108-4-mint-green-277329",
+        "product_name": "Redmi Note 13 128/8 GB Mint Green",
+        "current_price": 109990,
+        "old_price": null,
+        "bonus": 5499
+    },
+    {
+        "id": 168,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-512gb-85126148-natural-titanium-mtv93-274412",
+        "product_name": "Apple iPhone 15 Pro 512/8GB Natural Titanium (MTV93)",
+        "current_price": 799990,
+        "old_price": 879990,
+        "bonus": null
+    },
+    {
+        "id": 169,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s921bzygskz-thx-62-50-5-galaxy-s24-5g-256gb-amber-yellow-277500",
+        "product_name": "Samsung Galaxy S24 5G 256GB Amber Yellow",
+        "current_price": 499890,
+        "old_price": 534990,
+        "bonus": 24994
+    },
+    {
+        "id": 170,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-pro-max-1tb-black-titanium-mu7g3-274426",
+        "product_name": "Apple iPhone 15 Pro Max 1TB Black Titanium (MU7G3)",
+        "current_price": 1119990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 171,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a14-64gb-black-271085",
+        "product_name": "Samsung Galaxy A14 64GB Black",
+        "current_price": 89890,
+        "old_price": null,
+        "bonus": 4494
+    },
+    {
+        "id": 172,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y35s-thx-655-50-4-64gb-agate-black-266984",
+        "product_name": "Vivo Y35 64GB Agate Black",
+        "current_price": 74990,
+        "old_price": 109990,
+        "bonus": 3749
+    },
+    {
+        "id": 173,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s916bligskz-thx-66-50-5-galaxy-s23-512gb-light-pink-269587",
+        "product_name": "Samsung Galaxy S23+ 512GB Light pink",
+        "current_price": 459890,
+        "old_price": 669990,
+        "bonus": 22994
+    },
+    {
+        "id": 174,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y55-thx-644-50-4-128gb-ice-dawn-263745",
+        "product_name": "Vivo Y55 128GB Ice Dawn",
+        "current_price": 99990,
+        "old_price": 109990,
+        "bonus": 4999
+    },
+    {
+        "id": 175,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s911bzggskz-thx-61-50-5-galaxy-s23-256gb-green-269581",
+        "product_name": "Samsung Galaxy S23 256GB Green",
+        "current_price": 399890,
+        "old_price": 529990,
+        "bonus": 19994
+    },
+    {
+        "id": 176,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s21-fe-128gb-green-263961",
+        "product_name": "Samsung Galaxy S21 FE 128GB Green New",
+        "current_price": 269890,
+        "old_price": 349990,
+        "bonus": 13494
+    },
+    {
+        "id": 177,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-z-flip5-512gb-mint-273164",
+        "product_name": "Samsung Galaxy Z Flip5 512GB Mint",
+        "current_price": 569890,
+        "old_price": 669990,
+        "bonus": 28494
+    },
+    {
+        "id": 178,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s918blihskz-galaxy-s23-ultra-512gb-light-pink-269595",
+        "product_name": "Samsung Galaxy S23 Ultra 512GB Light pink",
+        "current_price": 599890,
+        "old_price": 819990,
+        "bonus": 29994
+    },
+    {
+        "id": 179,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-11-64gb-white-mhdc3rma-228937",
+        "product_name": "Apple iPhone 11 64GB White",
+        "current_price": 239990,
+        "old_price": 274990,
+        "bonus": null
+    },
+    {
+        "id": 180,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s23-fe-5g-128gb-purple-275676",
+        "product_name": "Samsung Galaxy S23 FE 5G 128GB Purple",
+        "current_price": 329890,
+        "old_price": 349990,
+        "bonus": 16494
+    },
+    {
+        "id": 181,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x8a-6-128-titanium-silver-272175",
+        "product_name": "Honor X8a 6+128, Titanium Silver",
+        "current_price": 99990,
+        "old_price": 149990,
+        "bonus": 4999
+    },
+    {
+        "id": 182,
+        "url": "https://www.technodom.kz/p/smartfon-honor-90-12512-midnight-black-272832",
+        "product_name": "Honor 90 12+512 Midnight Black",
+        "current_price": 279990,
+        "old_price": 299990,
+        "bonus": 13999
+    },
+    {
+        "id": 183,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-128gb-green-mtp53-274376",
+        "product_name": "Apple iPhone 15 128GB Green (MTP53)",
+        "current_price": 449990,
+        "old_price": 524990,
+        "bonus": null
+    },
+    {
+        "id": 184,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-a346elveskz-thx-66-48-4-galaxy-a34-256gb-violet-271095",
+        "product_name": "Samsung Galaxy A34 256GB Violet",
+        "current_price": 179890,
+        "old_price": 209990,
+        "bonus": 8994
+    },
+    {
+        "id": 185,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x9b-256gb-midnight-black-275779",
+        "product_name": "Honor X9b 12/256GB Midnight Black",
+        "current_price": 199990,
+        "old_price": null,
+        "bonus": 9999
+    },
+    {
+        "id": 186,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-13-256gb8gb-thx-md-667-108-4-ice-blue-277331",
+        "product_name": "Redmi Note 13 256/8 GB Ice Blue",
+        "current_price": 119990,
+        "old_price": null,
+        "bonus": 5999
+    },
+    {
+        "id": 187,
+        "url": "https://www.technodom.kz/p/smartfon-oppo-a57s-128gb-starry-black-267874",
+        "product_name": "OPPO A57s 128GB Starry Black",
+        "current_price": 99990,
+        "old_price": 119990,
+        "bonus": 4999
+    },
+    {
+        "id": 188,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-smart-8-thx-66-13-4-1284gb-timber-black-277089",
+        "product_name": "Infinix SMART 8 128GB Timber Black",
+        "current_price": 49990,
+        "old_price": null,
+        "bonus": 2499
+    },
+    {
+        "id": 189,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-13-256gb8gb-thx-md-667-108-4-mint-green-277332",
+        "product_name": "Redmi Note 13 256/8 GB Mint Green",
+        "current_price": 119990,
+        "old_price": null,
+        "bonus": 5999
+    },
+    {
+        "id": 190,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-reno8t-256gb-thx-md-643-100-4-sunset-orange-273149",
+        "product_name": "OPPO Reno 8T 256GB Sunset Orange",
+        "current_price": 159990,
+        "old_price": 179990,
+        "bonus": 7999
+    },
+    {
+        "id": 191,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s921bzvgskz-thx-62-50-5-galaxy-s24-5g-256gb-cobalt-violet-277501",
+        "product_name": "Samsung Galaxy S24 5G 256GB Cobalt Violet",
+        "current_price": 499890,
+        "old_price": 534990,
+        "bonus": 24994
+    },
+    {
+        "id": 192,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s916bzegskz-thx-66-50-5-galaxy-s23-512gb-beige-269588",
+        "product_name": "Samsung Galaxy S23+ 512GB Beige",
+        "current_price": 459890,
+        "old_price": 669990,
+        "bonus": 22994
+    },
+    {
+        "id": 193,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-a245flgvskz-thx-65-50-4-galaxy-a24-128gb-green-271777",
+        "product_name": "Samsung Galaxy A24 128GB Green",
+        "current_price": 104890,
+        "old_price": 129990,
+        "bonus": 5244
+    },
+    {
+        "id": 194,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-13-256gb-thx-61-12-5-starlight-252951",
+        "product_name": "Apple iPhone 13 256GB Starlight",
+        "current_price": 429990,
+        "old_price": 454990,
+        "bonus": null
+    },
+    {
+        "id": 195,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a54-128gb-white-271145",
+        "product_name": "Samsung Galaxy A54 128GB White",
+        "current_price": 199890,
+        "old_price": 229990,
+        "bonus": 9994
+    },
+    {
+        "id": 196,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-12-256gb8gb-thx-md-667-50-4-onyx-gray-273120",
+        "product_name": "Redmi Note 12 256GB/8GB Onyx Gray",
+        "current_price": 89990,
+        "old_price": 109990,
+        "bonus": 4499
+    },
+    {
+        "id": 197,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-12-128gb-black-228613",
+        "product_name": "Apple iPhone 12 128GB Black",
+        "current_price": 349990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 198,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s918bzegskz-galaxy-s23-ultra-256gb-beige-269592",
+        "product_name": "GSM Samsung Galaxy S23 Ultra 256GB Beige",
+        "current_price": 549890,
+        "old_price": 749990,
+        "bonus": 27494
+    },
+    {
+        "id": 199,
+        "url": "https://www.technodom.kz/p/smartfon-honor-90-lite-8256-cyan-lake-272838",
+        "product_name": "Honor 90 Lite 8+256GB Cyan Lake",
+        "current_price": 129990,
+        "old_price": 169990,
+        "bonus": 6499
+    },
+    {
+        "id": 200,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-13-128gb8gb-thx-md-667-108-4-ice-blue-277328",
+        "product_name": "Redmi Note 13 128/8 GB Ice Blue",
+        "current_price": 109990,
+        "old_price": null,
+        "bonus": 5499
+    },
+    {
+        "id": 201,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s911bzkdskz-thx-61-50-5-galaxy-s23-128gb-black-269578",
+        "product_name": "Samsung Galaxy S23 128GB Black",
+        "current_price": 369890,
+        "old_price": 499990,
+        "bonus": 18494
+    },
+    {
+        "id": 202,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-f946bzkcskz-thx-76-50-5-galaxy-z-fold5-512gb-black-273173",
+        "product_name": "Samsung Galaxy Z Fold5 512GB Black",
+        "current_price": 899890,
+        "old_price": 1069990,
+        "bonus": 44994
+    },
+    {
+        "id": 203,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-a346elgeskz-thx-66-48-4-galaxy-a34-256gb-green-271094",
+        "product_name": "Samsung Galaxy A34 256GB Green",
+        "current_price": 179890,
+        "old_price": 209990,
+        "bonus": 8994
+    },
+    {
+        "id": 204,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-512gb-85126148-black-titanium-mtv73-274410",
+        "product_name": "Apple iPhone 15 Pro 512/8GB Black Titanium (MTV73)",
+        "current_price": 799990,
+        "old_price": 879990,
+        "bonus": null
+    },
+    {
+        "id": 205,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-v27e-256gb-glory-black-271235",
+        "product_name": "Vivo V27E 256Gb Glory Black",
+        "current_price": 199990,
+        "old_price": null,
+        "bonus": 9999
+    },
+    {
+        "id": 206,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s918bzkhskz-galaxy-s23-ultra-512gb-black-269598",
+        "product_name": "Samsung Galaxy S23 Ultra 512GB Black",
+        "current_price": 599890,
+        "old_price": 819990,
+        "bonus": 29994
+    },
+    {
+        "id": 207,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-12-256gb8gb-thx-md-667-50-4-mint-green-273121",
+        "product_name": "Redmi Note 12 256GB/8GB Mint Green",
+        "current_price": 89990,
+        "old_price": 109990,
+        "bonus": 4499
+    },
+    {
+        "id": 208,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-smart-8-thx-66-13-4-1284gb-crystal-green-277090",
+        "product_name": "Infinix SMART 8 128GB Crystal Green",
+        "current_price": 49990,
+        "old_price": null,
+        "bonus": 2499
+    },
+    {
+        "id": 209,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s23-fe-5g-128gb-mint-275674",
+        "product_name": "Samsung Galaxy S23 FE 5G 128GB Mint",
+        "current_price": 329890,
+        "old_price": 349990,
+        "bonus": 16494
+    },
+    {
+        "id": 210,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-tecno-spark-go-2024-41286613-black-277373",
+        "product_name": "Tecno Spark Go 2024 128GB Black",
+        "current_price": 49990,
+        "old_price": 54990,
+        "bonus": 2499
+    },
+    {
+        "id": 211,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s918bligskz-galaxy-s23-ultra-256gb-light-pink-269591",
+        "product_name": "GSM Samsung Galaxy S23 Ultra 256GB Light pink",
+        "current_price": 549890,
+        "old_price": 749990,
+        "bonus": 27494
+    },
+    {
+        "id": 212,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-reno10-5g-thx-md-67-64-5-silvery-grey-273147",
+        "product_name": "OPPO Reno10 5G Silvery Grey",
+        "current_price": 269990,
+        "old_price": null,
+        "bonus": 13499
+    },
+    {
+        "id": 213,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a58-128gb-thx-ad-656-50-4-green-273655",
+        "product_name": "OPPO A58 128GB Green",
+        "current_price": 109990,
+        "old_price": 119990,
+        "bonus": 5499
+    },
+    {
+        "id": 214,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s911bligskz-thx-61-50-5-galaxy-s23-256gb-light-pink-269579",
+        "product_name": "Samsung Galaxy S23 256GB Light pink",
+        "current_price": 399890,
+        "old_price": 529990,
+        "bonus": 19994
+    },
+    {
+        "id": 215,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-reno8t-128gb-thx-md-643-100-4-midnight-black-270223",
+        "product_name": "OPPO Reno8T 128GB Midnight Black",
+        "current_price": 149990,
+        "old_price": 179990,
+        "bonus": 7499
+    },
+    {
+        "id": 216,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-13-128gb-thx-61-12-5-pink-252947",
+        "product_name": "Apple iPhone 13 128GB Pink",
+        "current_price": 349990,
+        "old_price": 384990,
+        "bonus": 17499
+    },
+    {
+        "id": 217,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-256gb-pink-mtp73-274378",
+        "product_name": "Apple iPhone 15 256GB Pink (MTP73)",
+        "current_price": 529990,
+        "old_price": 594990,
+        "bonus": null
+    },
+    {
+        "id": 218,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-12-128gb4gb-polar-silver-271852",
+        "product_name": "Redmi 12 128GB/4GB Polar Silver",
+        "current_price": 79990,
+        "old_price": 89990,
+        "bonus": 3999
+    },
+    {
+        "id": 219,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s24-5g-512gb-marble-gray-277510",
+        "product_name": "Samsung Galaxy S24+ 5G 512GB Marble Gray",
+        "current_price": 614890,
+        "old_price": 684990,
+        "bonus": 30744
+    },
+    {
+        "id": 220,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x8a-6128-cyan-lake-272174",
+        "product_name": "Honor X8a 6+128, Cyan Lake",
+        "current_price": 99990,
+        "old_price": 149990,
+        "bonus": 4999
+    },
+    {
+        "id": 221,
+        "url": "https://www.technodom.kz/p/cmartfon-gsm-poco-x5-pro-256gb8gb-5g-thx-md-667-108-5-black-269778",
+        "product_name": "Poco X5 Pro 256/8GB Black",
+        "current_price": 179990,
+        "old_price": null,
+        "bonus": 8999
+    },
+    {
+        "id": 222,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-v27e-256gb-lively-green-271236",
+        "product_name": "Vivo V27E 256Gb Lively Green",
+        "current_price": 199990,
+        "old_price": null,
+        "bonus": 9999
+    },
+    {
+        "id": 223,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-13-256gb-green-258949",
+        "product_name": "Apple iPhone 13 256GB Green",
+        "current_price": 429990,
+        "old_price": 454990,
+        "bonus": null
+    },
+    {
+        "id": 224,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x9b-256gb-sunrise-orange-275780",
+        "product_name": "Honor X9b 12/256GB Sunrise Orange",
+        "current_price": 199990,
+        "old_price": null,
+        "bonus": 9999
+    },
+    {
+        "id": 225,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a54-256gb-white-271149",
+        "product_name": "Samsung Galaxy A54 256GB White",
+        "current_price": 219890,
+        "old_price": 249990,
+        "bonus": 10994
+    },
+    {
+        "id": 226,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-f946bzkbskz-thx-76-50-5-galaxy-z-fold5-256gb-black-273170",
+        "product_name": "Samsung Galaxy Z Fold5 256GB Black",
+        "current_price": 829890,
+        "old_price": 999990,
+        "bonus": 41494
+    },
+    {
+        "id": 227,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a14-128gb-green-271087",
+        "product_name": "Samsung Galaxy A14 128GB Green",
+        "current_price": 99890,
+        "old_price": null,
+        "bonus": 4994
+    },
+    {
+        "id": 228,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-128gb-yellow-mtp23-274374",
+        "product_name": "Apple iPhone 15 128GB Yellow (MTP23)",
+        "current_price": 449990,
+        "old_price": 524990,
+        "bonus": null
+    },
+    {
+        "id": 229,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-512gb-85126148-blue-titanium-mtva3-274413",
+        "product_name": "Apple iPhone 15 Pro 512/8GB Blue Titanium (MTVA3)",
+        "current_price": 799990,
+        "old_price": 879990,
+        "bonus": null
+    },
+    {
+        "id": 230,
+        "url": "https://www.technodom.kz/p/smartfon-honor-90-12512-emerald-green-272833",
+        "product_name": "Honor 90 12+512 Emerald Green",
+        "current_price": 279990,
+        "old_price": 299990,
+        "bonus": 13999
+    },
+    {
+        "id": 231,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-sm-g990bzawskzthx-64-12-5-galaxy-s21-fe-256gb-gray-263966",
+        "product_name": "Samsung Galaxy S21 FE 256GB Gray New",
+        "current_price": 299890,
+        "old_price": 389990,
+        "bonus": 14994
+    },
+    {
+        "id": 232,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-a17k-64gb-thx-ad-656-8-4-navy-blue-268408",
+        "product_name": "OPPO A17k 64GB Navy Blue",
+        "current_price": 54990,
+        "old_price": 69990,
+        "bonus": 2749
+    },
+    {
+        "id": 233,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-256gb-thx-61-12-5-purple-265276",
+        "product_name": "Apple iPhone 14 256GB Purple",
+        "current_price": 524990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 234,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s23-fe-5g-256gb-purple-275680",
+        "product_name": "Samsung Galaxy S23 FE 5G 256GB Purple",
+        "current_price": 364890,
+        "old_price": 384990,
+        "bonus": 18244
+    },
+    {
+        "id": 235,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-256gb-gold-265305",
+        "product_name": "Apple iPhone 14 Pro 256GB Gold",
+        "current_price": 659990,
+        "old_price": 699990,
+        "bonus": null
+    },
+    {
+        "id": 236,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-512gb-85126148-white-titanium-mtv83-274411",
+        "product_name": "Apple iPhone 15 Pro 512/8GB White Titanium (MTV83)",
+        "current_price": 799990,
+        "old_price": 879990,
+        "bonus": null
+    },
+    {
+        "id": 237,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-xiaomi-13-lite-256gb8gb-thx-md-655-64-4-black-269930",
+        "product_name": "Xiaomi 13 Lite 256GB Black",
+        "current_price": 179990,
+        "old_price": 219990,
+        "bonus": 8999
+    },
+    {
+        "id": 238,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s918bzkgskz-galaxy-s23-ultra-256gb-black-269594",
+        "product_name": "GSM Samsung Galaxy S23 Ultra 256GB Black",
+        "current_price": 549890,
+        "old_price": 749990,
+        "bonus": 27494
+    },
+    {
+        "id": 239,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-plus-128gb-61286748-pink-mu103-274388",
+        "product_name": "Apple iPhone 15 Plus 128GB Pink (MU103)",
+        "current_price": 594990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 240,
+        "url": "https://www.technodom.kz/p/smartfon-honor-90-8256-peacock-blue-272836",
+        "product_name": "Honor 90 8+256 Peacock Blue",
+        "current_price": 249990,
+        "old_price": 279990,
+        "bonus": 12499
+    },
+    {
+        "id": 241,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-smart-8-thx-66-13-4-1284gb-shiny-gold-277091",
+        "product_name": "Infinix SMART 8 128GB Shiny Gold",
+        "current_price": 49990,
+        "old_price": null,
+        "bonus": 2499
+    },
+    {
+        "id": 242,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s24-5g-512gb-cobalt-violet-277509",
+        "product_name": "Samsung Galaxy S24+ 5G 512GB Cobalt Violet",
+        "current_price": 614890,
+        "old_price": 684990,
+        "bonus": 30744
+    },
+    {
+        "id": 243,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-128gb-gold-265301",
+        "product_name": "Apple iPhone 14 Pro 128GB Gold",
+        "current_price": 599990,
+        "old_price": 629990,
+        "bonus": null
+    },
+    {
+        "id": 244,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y22-thx-655-50-4-64gb-metaverse-green-266983",
+        "product_name": "Vivo Y22 64Gb Metaverse Green",
+        "current_price": 59990,
+        "old_price": 99990,
+        "bonus": 2999
+    },
+    {
+        "id": 245,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y22-thx-655-50-4-64gb-starlight-blue-266982",
+        "product_name": "Vivo Y22 64Gb Starlight Blue",
+        "current_price": 59990,
+        "old_price": 99990,
+        "bonus": 2999
+    },
+    {
+        "id": 246,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s23-fe-5g-256gb-mint-275678",
+        "product_name": "Samsung Galaxy S23 FE 5G 256GB Mint",
+        "current_price": 364890,
+        "old_price": 384990,
+        "bonus": 18244
+    },
+    {
+        "id": 247,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s21-fe-256gb-green-263964",
+        "product_name": "Samsung Galaxy S21 FE 256GB Green New",
+        "current_price": 299890,
+        "old_price": 389990,
+        "bonus": 14994
+    },
+    {
+        "id": 248,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-10a-643gb-thx-md-653-13-4-graphite-gray-266440",
+        "product_name": "Redmi 10A 64GB Graphite Gray",
+        "current_price": 44990,
+        "old_price": 69990,
+        "bonus": 2249
+    },
+    {
+        "id": 249,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-plus-128gb-thx-67-12-5-midnight-265284",
+        "product_name": "Apple iPhone 14 Plus 128GB Midnight",
+        "current_price": 524990,
+        "old_price": 559990,
+        "bonus": null
+    },
+    {
+        "id": 250,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-128gb-thx-61-12-5-blue-265273",
+        "product_name": "Apple iPhone 14 128GB Blue",
+        "current_price": 454990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 251,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s911bzegskz-thx-61-50-5-galaxy-s23-256gb-beige-269580",
+        "product_name": "Samsung Galaxy S23 256GB Beige",
+        "current_price": 399890,
+        "old_price": 529990,
+        "bonus": 19994
+    },
+    {
+        "id": 252,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-pro-max-1tb-natural-titanium-mu7j3-274428",
+        "product_name": "Apple iPhone 15 Pro Max 1TB Natural Titanium (MU7J3)",
+        "current_price": 1119990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 253,
+        "url": "https://www.technodom.kz/p/smartfon-honor-90-8256-emerald-green-272835",
+        "product_name": "Honor 90 8+256 Emerald Green",
+        "current_price": 249990,
+        "old_price": 279990,
+        "bonus": 12499
+    },
+    {
+        "id": 254,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-tecno-pova-5-82566750-mecha-black-277368",
+        "product_name": "Tecno Pova 5 8/256 Гб Mecha Black",
+        "current_price": 109990,
+        "old_price": null,
+        "bonus": 5499
+    },
+    {
+        "id": 255,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y35s-thx-655-50-4-64gb-dawn-gold-266985",
+        "product_name": "Vivo Y35 64GB Dawn Gold",
+        "current_price": 74990,
+        "old_price": 109990,
+        "bonus": 3749
+    },
+    {
+        "id": 256,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-y35-128gb-agate-black-270485",
+        "product_name": "Vivo Y35 128Gb Agate Black",
+        "current_price": 89990,
+        "old_price": 129990,
+        "bonus": 4499
+    },
+    {
+        "id": 257,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-13-256gb-thx-61-12-5-blue-252954",
+        "product_name": "Apple iPhone 13 256GB Blue",
+        "current_price": 429990,
+        "old_price": 454990,
+        "bonus": null
+    },
+    {
+        "id": 258,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-reno10-5g-thx-md-67-64-5-ice-blue-273146",
+        "product_name": "OPPO Reno10 5G Ice Blue",
+        "current_price": 269990,
+        "old_price": null,
+        "bonus": 13499
+    },
+    {
+        "id": 259,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s24-5g-512gb-amber-yellow-277508",
+        "product_name": "Samsung Galaxy S24+ 5G 512GB Amber Yellow",
+        "current_price": 614890,
+        "old_price": 684990,
+        "bonus": 30744
+    },
+    {
+        "id": 260,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-a17k-64gb-thx-ad-656-8-4-blue-268409",
+        "product_name": "OPPO A17k 64GB Blue",
+        "current_price": 54990,
+        "old_price": 69990,
+        "bonus": 2749
+    },
+    {
+        "id": 261,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-poco-m5s-2568gb-thx-md-643-64-4-grey-272278",
+        "product_name": "Poco M5s 256 Grey",
+        "current_price": 99990,
+        "old_price": 119990,
+        "bonus": 4999
+    },
+    {
+        "id": 262,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-1tb-810246148-black-titanium-mtvc3-274414",
+        "product_name": "Apple iPhone 15 Pro 1024/8GB Black Titanium (MTVC3)",
+        "current_price": 1049990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 263,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s911blidskz-thx-61-50-5-galaxy-s23-128gb-light-pink-269575",
+        "product_name": "Samsung Galaxy S23 128GB Light pink",
+        "current_price": 369890,
+        "old_price": 499990,
+        "bonus": 18494
+    },
+    {
+        "id": 264,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-tecno-spark-go-2024-41286613-white-277374",
+        "product_name": "Tecno Spark Go 2024 128GB White",
+        "current_price": 49990,
+        "old_price": 54990,
+        "bonus": 2499
+    },
+    {
+        "id": 265,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-note-12-256gb8gb-sunrise-gold-273874",
+        "product_name": "Redmi Note 12 256GB/8GB Sunrise Gold",
+        "current_price": 89990,
+        "old_price": 109990,
+        "bonus": 4499
+    },
+    {
+        "id": 266,
+        "url": "https://www.technodom.kz/p/smartfon-wiko-t10-rally-64gb-black-263649",
+        "product_name": "WIKO T10 Rally 64GB Black",
+        "current_price": 34990,
+        "old_price": 74990,
+        "bonus": 1749
+    },
+    {
+        "id": 267,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-realme-c53-61286750-mighty-black-rmx3760-276079",
+        "product_name": "Realme C53 128GB Mighty Black",
+        "current_price": 79990,
+        "old_price": 109990,
+        "bonus": 3999
+    },
+    {
+        "id": 268,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-12c-128gb4gb-thx-md-671-50-4-graphite-gray-270425",
+        "product_name": "Redmi 12C 128GB Graphite Gray",
+        "current_price": 59990,
+        "old_price": 69990,
+        "bonus": 2999
+    },
+    {
+        "id": 269,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a14-64gb-green-271084",
+        "product_name": "Samsung Galaxy A14 64GB Green",
+        "current_price": 89890,
+        "old_price": null,
+        "bonus": 4494
+    },
+    {
+        "id": 270,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-plus-128gb-61286748-black-mu0y3-274387",
+        "product_name": "Apple iPhone 15 Plus 128GB Black (MU0Y3)",
+        "current_price": 594990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 271,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-z-flip5-256gb-graphite-273162",
+        "product_name": "Samsung Galaxy Z Flip5 256GB Graphite",
+        "current_price": 499890,
+        "old_price": 599990,
+        "bonus": 24994
+    },
+    {
+        "id": 272,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s911bzedskz-thx-61-50-5-galaxy-s23-128gb-beige-269576",
+        "product_name": "Samsung Galaxy S23 128GB Beige",
+        "current_price": 369890,
+        "old_price": 499990,
+        "bonus": 18494
+    },
+    {
+        "id": 273,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-z-flip5-512gb-graphite-273166",
+        "product_name": "Samsung Galaxy Z Flip5 512GB Graphite",
+        "current_price": 569890,
+        "old_price": 669990,
+        "bonus": 28494
+    },
+    {
+        "id": 274,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-f946blbcskz-thx-76-50-5-galaxy-z-fold5-512gb-icy-blue-273171",
+        "product_name": "Samsung Galaxy Z Fold5 512GB Icy Blue",
+        "current_price": 899890,
+        "old_price": 1069990,
+        "bonus": 44994
+    },
+    {
+        "id": 275,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-256gb-green-mtpa3-274381",
+        "product_name": "Apple iPhone 15 256GB Green (MTPA3)",
+        "current_price": 529990,
+        "old_price": 594990,
+        "bonus": null
+    },
+    {
+        "id": 276,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s911bzgdskz-thx-61-50-5-galaxy-s23-128gb-green-269577",
+        "product_name": "Samsung Galaxy S23 128GB Green",
+        "current_price": 369890,
+        "old_price": 499990,
+        "bonus": 18494
+    },
+    {
+        "id": 277,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-128gb-deep-purple-265302",
+        "product_name": "Apple iPhone 14 Pro 128GB Deep Purple",
+        "current_price": 599990,
+        "old_price": 629990,
+        "bonus": null
+    },
+    {
+        "id": 278,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a77s-128gb-thx-ad-656-50-4-sunset-orange-268579",
+        "product_name": "OPPO A77s 128GB Sunset Orange",
+        "current_price": 119990,
+        "old_price": 139990,
+        "bonus": 5999
+    },
+    {
+        "id": 279,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-12-128gb-purple-243977",
+        "product_name": "Apple iPhone 12 128GB Purple",
+        "current_price": 349990,
+        "old_price": 449990,
+        "bonus": 17499
+    },
+    {
+        "id": 280,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s24-5g-256gb-onyx-black-277507",
+        "product_name": "Samsung Galaxy S24+ 5G 256GB Onyx Black",
+        "current_price": 614890,
+        "old_price": null,
+        "bonus": 30744
+    },
+    {
+        "id": 281,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a23-64gb-white-258744",
+        "product_name": "Samsung Galaxy A23 64GB White",
+        "current_price": 74990,
+        "old_price": 89990,
+        "bonus": 3749
+    },
+    {
+        "id": 282,
+        "url": "https://www.technodom.kz/p/smartfon-huawei-nova-y70-128gb-crystal-blue-261768",
+        "product_name": "HUAWEI Nova Y70 128GB Crystal Blue",
+        "current_price": 49990,
+        "old_price": 79990,
+        "bonus": 2499
+    },
+    {
+        "id": 283,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-reno8t-256gb-5g-thx-md-67-108-5-midnight-black-270221",
+        "product_name": "OPPO Reno8T 5G 256GB Midnight Black",
+        "current_price": 249990,
+        "old_price": 299990,
+        "bonus": 12499
+    },
+    {
+        "id": 284,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-xiaomi-13-lite-256gb8gb-thx-md-655-64-4-lite-blue-269931",
+        "product_name": "Xiaomi 13 Lite 256GB Lite Blue",
+        "current_price": 179990,
+        "old_price": 219990,
+        "bonus": 8999
+    },
+    {
+        "id": 285,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a14-128gb-silver-271089",
+        "product_name": "Samsung Galaxy A14 128GB Silver",
+        "current_price": 99890,
+        "old_price": null,
+        "bonus": 4994
+    },
+    {
+        "id": 286,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-256gb-thx-61-12-5-blue-265278",
+        "product_name": "Apple iPhone 14 256GB Blue",
+        "current_price": 524990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 287,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-256gb-thx-61-12-5-starlight-265275",
+        "product_name": "Apple iPhone 14 256GB Starlight",
+        "current_price": 524990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 288,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a25-5g-128gb-yellow-277338",
+        "product_name": "Samsung Galaxy A25 5G 128GB Yellow",
+        "current_price": 149890,
+        "old_price": null,
+        "bonus": 7494
+    },
+    {
+        "id": 289,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-note-12-pro-256gb8gb-graphite-gray-270884",
+        "product_name": "Redmi Note 12 Pro 256GB/8GB Graphite Gray",
+        "current_price": 149990,
+        "old_price": null,
+        "bonus": 7499
+    },
+    {
+        "id": 290,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-xiaomi-13-pro-512gb12gb-thx-md-673-50-5-ceramic-white-270288",
+        "product_name": "Xiaomi 13 PRO 512GB Ceramic White",
+        "current_price": 599990,
+        "old_price": 749990,
+        "bonus": 29999
+    },
+    {
+        "id": 291,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-12-128gb4gb-sky-blue-271853",
+        "product_name": "Redmi 12 128GB/4GB Sky Blue",
+        "current_price": 79990,
+        "old_price": 89990,
+        "bonus": 3999
+    },
+    {
+        "id": 292,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-10-2022-128gb-pebble-white-262093",
+        "product_name": "Xiaomi Redmi 10 (2022) 128GB Pebble White",
+        "current_price": 59990,
+        "old_price": 99990,
+        "bonus": 2999
+    },
+    {
+        "id": 293,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-v27-thx-678-50-8-256gb-5g-magic-blue-271238",
+        "product_name": "Vivo V27 256GB Magic Blue",
+        "current_price": 269990,
+        "old_price": null,
+        "bonus": 13499
+    },
+    {
+        "id": 294,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-smart-8-thx-66-13-4-644gb-timber-black-277086",
+        "product_name": "Infinix SMART 8 64GB Timber Black",
+        "current_price": 45990,
+        "old_price": null,
+        "bonus": 2299
+    },
+    {
+        "id": 295,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-1tb-810246148-blue-titanium-mtvg3-274417",
+        "product_name": "Apple iPhone 15 Pro 1024/8GB Blue Titanium (MTVG3)",
+        "current_price": 1049990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 296,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-realme-s30s-644gb-thx-ad-65-8-4-black-270502",
+        "product_name": "Realme С30s 64GB Black",
+        "current_price": 44990,
+        "old_price": 59990,
+        "bonus": 2249
+    },
+    {
+        "id": 297,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-12c-64gb3gb-thx-md-671-50-4-ocean-blue-272148",
+        "product_name": "Redmi 12C 64GB Ocean Blue",
+        "current_price": 44990,
+        "old_price": 59990,
+        "bonus": 2249
+    },
+    {
+        "id": 298,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-10a-643gb-thx-md-653-13-4-sky-blue-266442",
+        "product_name": "Redmi 10A 64GB Sky Blue",
+        "current_price": 44990,
+        "old_price": 69990,
+        "bonus": 2249
+    },
+    {
+        "id": 299,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a54-128gb-green-271142",
+        "product_name": "Samsung Galaxy A54 128GB Green",
+        "current_price": 199890,
+        "old_price": 229990,
+        "bonus": 9994
+    },
+    {
+        "id": 300,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-poco-x5-pro-256gb8gb-5g-thx-md-667-108-5-yellow-269780",
+        "product_name": "Poco X5 Pro 256/8GB Yellow",
+        "current_price": 179990,
+        "old_price": null,
+        "bonus": 8999
+    },
+    {
+        "id": 301,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-hot-40i-thx-656-32-4-1288gb-starlit-black-277092",
+        "product_name": "Infinix HOT 40i 128GB Starlit Black",
+        "current_price": 74990,
+        "old_price": null,
+        "bonus": 3749
+    },
+    {
+        "id": 302,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-realme-c53-61286750-champion-gold-rmx3760-276080",
+        "product_name": "Realme C53 128GB Champion Gold",
+        "current_price": 79990,
+        "old_price": 109990,
+        "bonus": 3999
+    },
+    {
+        "id": 303,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-1tb-deep-purple-265314",
+        "product_name": "Apple iPhone 14 Pro 1TB Deep Purple",
+        "current_price": 979990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 304,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-z-flip5-256gb-cream-273163",
+        "product_name": "Samsung Galaxy Z Flip5 256GB Cream",
+        "current_price": 499890,
+        "old_price": 599990,
+        "bonus": 24994
+    },
+    {
+        "id": 305,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-honor-magic5-pro-5g-12512-black-272165",
+        "product_name": "Honor Magic5 Pro 5G 12+512GB Black",
+        "current_price": 449990,
+        "old_price": 599990,
+        "bonus": 22499
+    },
+    {
+        "id": 306,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-plus-256gb-thx-67-12-5-blue-265293",
+        "product_name": "Apple iPhone 14 Plus 256GB Blue",
+        "current_price": 594990,
+        "old_price": 629990,
+        "bonus": null
+    },
+    {
+        "id": 307,
+        "url": "https://www.technodom.kz/p/smartfon-motorola-edge-40-256gb-nebula-green-273259",
+        "product_name": "Motorola Edge 40 256GB Nebula Green",
+        "current_price": 229990,
+        "old_price": null,
+        "bonus": 11499
+    },
+    {
+        "id": 308,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-p60-256gb-thx-667-48-5-black-271157",
+        "product_name": "Huawei P60 256GB Black",
+        "current_price": 399990,
+        "old_price": null,
+        "bonus": 19999
+    },
+    {
+        "id": 309,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-f946blbbskz-thx-76-50-5-galaxy-z-fold5-256gb-icy-blue-273168",
+        "product_name": "Samsung Galaxy Z Fold5 256GB Icy Blue",
+        "current_price": 829890,
+        "old_price": 999990,
+        "bonus": 41494
+    },
+    {
+        "id": 310,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a17-64gb-thx-ad-656-50-4-blue-267342",
+        "product_name": "OPPO A17 64GB Blue",
+        "current_price": 64990,
+        "old_price": 79990,
+        "bonus": 3249
+    },
+    {
+        "id": 311,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-realme-c55-82566764-rainy-night-rmx3710-276081",
+        "product_name": "Realme C55 256GB Rainy Night",
+        "current_price": 119990,
+        "old_price": 149990,
+        "bonus": 5999
+    },
+    {
+        "id": 312,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-13-pro-max-1tb-graphite-253003",
+        "product_name": "Apple iPhone 13 Pro Max 1TB Graphite",
+        "current_price": 699990,
+        "old_price": 739990,
+        "bonus": null
+    },
+    {
+        "id": 313,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-tecno-pova-5-pro-5g-82566750-dark-277369",
+        "product_name": "Tecno Pova 5 Pro 256GB Dark",
+        "current_price": 119990,
+        "old_price": 139990,
+        "bonus": 5999
+    },
+    {
+        "id": 314,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-honor-magic5-pro-5g-12512-meadow-green-272166",
+        "product_name": "Honor Magic5 Pro 5G 12+512GB Meadow Green",
+        "current_price": 449990,
+        "old_price": 599990,
+        "bonus": 22499
+    },
+    {
+        "id": 315,
+        "url": "https://www.technodom.kz/p/smartfon-poco-m5-64gb-blacksmartfon-poco-m5-64gb-black-266439",
+        "product_name": "Poco M5 64GB Black",
+        "current_price": 59990,
+        "old_price": 89990,
+        "bonus": 2999
+    },
+    {
+        "id": 316,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-128gb-thx-61-12-5-productred-265272",
+        "product_name": "Apple iPhone 14 128GB (PRODUCT)RED",
+        "current_price": 454990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 317,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-z-flip5-256gb-lavender-273161",
+        "product_name": "Samsung Galaxy Z Flip5 256GB Lavender",
+        "current_price": 499890,
+        "old_price": 599990,
+        "bonus": 24994
+    },
+    {
+        "id": 318,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s24-5g-256gb-cobalt-violet-277505",
+        "product_name": "Samsung Galaxy S24+ 5G 256GB Cobalt Violet",
+        "current_price": 614890,
+        "old_price": null,
+        "bonus": 30744
+    },
+    {
+        "id": 319,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x9a-5g-8256-emerald-green-272172",
+        "product_name": "Honor X9a 5G 8+256, Emerald Green",
+        "current_price": 139990,
+        "old_price": 199990,
+        "bonus": 6999
+    },
+    {
+        "id": 320,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y55-thx-644-50-4-128gb-midnight-galaxy-263744",
+        "product_name": "Vivo Y55 128GB Midnight Galaxy",
+        "current_price": 99990,
+        "old_price": 109990,
+        "bonus": 4999
+    },
+    {
+        "id": 321,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-max-1tb-space-black-265327",
+        "product_name": "Apple iPhone 14 Pro Max 1TB Space Black",
+        "current_price": 1049990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 322,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-xiaomi-13-256gb12gb-white-270290",
+        "product_name": "Xiaomi 13 256GB/12GB White",
+        "current_price": 449990,
+        "old_price": 549990,
+        "bonus": 22499
+    },
+    {
+        "id": 323,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-nova-y91-8128-moonlight-silver-272189",
+        "product_name": "Huawei Nova Y91 128 Moonlight Silver",
+        "current_price": 99990,
+        "old_price": 109990,
+        "bonus": 4999
+    },
+    {
+        "id": 324,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-max-512gb-space-black-265323",
+        "product_name": "Apple iPhone 14 Pro Max 512GB Space Black",
+        "current_price": 909990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 325,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-plus-256gb-62566748-black-mu183-274392",
+        "product_name": "Apple iPhone 15 Plus 256GB Black (MU183)",
+        "current_price": 664990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 326,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-z-flip5-512gb-lavender-273165",
+        "product_name": "Samsung Galaxy Z Flip5 512GB Lavender",
+        "current_price": 569890,
+        "old_price": 669990,
+        "bonus": 28494
+    },
+    {
+        "id": 327,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-z-flip5-256gb-mint-273160",
+        "product_name": "Samsung Galaxy Z Flip5 256GB Mint",
+        "current_price": 499890,
+        "old_price": 599990,
+        "bonus": 24994
+    },
+    {
+        "id": 328,
+        "url": "https://www.technodom.kz/p/smartfon-realme-11-256gb-dark-glory-276083",
+        "product_name": "Realme 11 256GB Dark Glory",
+        "current_price": 169990,
+        "old_price": null,
+        "bonus": 8499
+    },
+    {
+        "id": 329,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-nova-10-pro-256gb-thx-678-50-4-starry-black-265840",
+        "product_name": "HUAWEI Nova 10 Pro 256GB Starry Black",
+        "current_price": 179990,
+        "old_price": null,
+        "bonus": 8999
+    },
+    {
+        "id": 330,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-f946bzebskz-thx-76-50-5-galaxy-z-fold5-256gb-cream-273169",
+        "product_name": "Samsung Galaxy Z Fold5 256GB Cream",
+        "current_price": 829890,
+        "old_price": 999990,
+        "bonus": 41494
+    },
+    {
+        "id": 331,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-realme-c51-41286750-ming-green-rmx3830-276078",
+        "product_name": "Realme C51 128/4 Gb Ming Green (RMX3830)",
+        "current_price": 69990,
+        "old_price": 89990,
+        "bonus": 3499
+    },
+    {
+        "id": 332,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-12-128gb4gb-thx-md-667-50-4-mint-green-270881",
+        "product_name": "Redmi Note 12 128GB/4GB Mint Green",
+        "current_price": 69990,
+        "old_price": 109990,
+        "bonus": 3499
+    },
+    {
+        "id": 333,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-y35-128gb-dawn-gold-270486",
+        "product_name": "Vivo Y35 128Gb Dawn Gold",
+        "current_price": 89990,
+        "old_price": 129990,
+        "bonus": 4499
+    },
+    {
+        "id": 334,
+        "url": "https://www.technodom.kz/p/smartfon-honor-x9a-5g-8256-midnight-black-272171",
+        "product_name": "Honor X9a 5G 8+256, Midnight Black",
+        "current_price": 139990,
+        "old_price": 199990,
+        "bonus": 6999
+    },
+    {
+        "id": 335,
+        "url": "https://www.technodom.kz/p/smartfon-huawei-nova-y90-128gb-crystal-blue-263693",
+        "product_name": "HUAWEI Nova Y90 128GB Crystal Blue",
+        "current_price": 59990,
+        "old_price": 89990,
+        "bonus": 2999
+    },
+    {
+        "id": 336,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-nova-y91-8128-starry-black-272188",
+        "product_name": "Huawei Nova Y91 128 Starry Black",
+        "current_price": 99990,
+        "old_price": 109990,
+        "bonus": 4999
+    },
+    {
+        "id": 337,
+        "url": "https://www.technodom.kz/p/cmartfon-gsm-poco-x5-256gb8gb-5g-thx-md-667-48-5-green-269777",
+        "product_name": "Cмартфон Poco X5 256/8GB 5G THX-MD-6.67-48-5 Green",
+        "current_price": 129990,
+        "old_price": 159990,
+        "bonus": 6499
+    },
+    {
+        "id": 338,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-note-12s-256gb8gb-onyx-gray-271288",
+        "product_name": "Redmi Note 12S 256GB/8GB Onyx Gray",
+        "current_price": 129990,
+        "old_price": null,
+        "bonus": 6499
+    },
+    {
+        "id": 339,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-realme-c55-82566764-sunshower-rmx3710-276082",
+        "product_name": "Realme C55 256GB Sunshower",
+        "current_price": 119990,
+        "old_price": 149990,
+        "bonus": 5999
+    },
+    {
+        "id": 340,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-v25-thx-644-64-5-256gb-5g-aquamarine-blue-265837",
+        "product_name": "Vivo V25 256GB 5G Aquamarine Blue",
+        "current_price": 199990,
+        "old_price": 259990,
+        "bonus": 9999
+    },
+    {
+        "id": 341,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-13-256gb-thx-61-12-5-pink-252952",
+        "product_name": "Apple iPhone 13 256GB Pink",
+        "current_price": 429990,
+        "old_price": 454990,
+        "bonus": null
+    },
+    {
+        "id": 342,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a14-64gb-silver-271086",
+        "product_name": "Samsung Galaxy A14 64GB Silver",
+        "current_price": 89890,
+        "old_price": null,
+        "bonus": 4494
+    },
+    {
+        "id": 343,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-512gb-blue-mtpg3-274385",
+        "product_name": "Apple iPhone 15 512GB Blue (MTPG3)",
+        "current_price": 769990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 344,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a57s-64gb-thx-ad-656-50-4-starry-black-265207",
+        "product_name": "OPPO A57s 64GB Starry Black",
+        "current_price": 79990,
+        "old_price": 104990,
+        "bonus": 3999
+    },
+    {
+        "id": 345,
+        "url": "https://www.technodom.kz/p/smartfon-poco-m5-64gb-green-266438",
+        "product_name": "Poco M5 64GB Green",
+        "current_price": 59990,
+        "old_price": 89990,
+        "bonus": 2999
+    },
+    {
+        "id": 346,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-hot-40i-thx-656-32-4-1288gb-palm-blue-277093",
+        "product_name": "Infinix HOT 40i 128GB Palm Blue",
+        "current_price": 74990,
+        "old_price": null,
+        "bonus": 3749
+    },
+    {
+        "id": 347,
+        "url": "https://www.technodom.kz/p/smartfon-xiaomi-13t-256gb12gb-black-274152",
+        "product_name": "Xiaomi 13T 256GB/12GB Black",
+        "current_price": 299990,
+        "old_price": null,
+        "bonus": 14999
+    },
+    {
+        "id": 348,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-note-30-pro-thx-667-108-4-2568-magic-black-275755",
+        "product_name": "Infinix Note 30 Pro 256/8 Gb Magic Black",
+        "current_price": 149990,
+        "old_price": null,
+        "bonus": 7499
+    },
+    {
+        "id": 349,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-f946bzecskz-thx-76-50-5-galaxy-z-fold5-512gb-cream-273172",
+        "product_name": "Samsung Galaxy Z Fold5 512GB Cream",
+        "current_price": 899890,
+        "old_price": 1069990,
+        "bonus": 44994
+    },
+    {
+        "id": 350,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-10-2022-128gb-carbon-gray-262094",
+        "product_name": "Xiaomi Redmi 10 (2022) 128GB Carbon Gray",
+        "current_price": 59990,
+        "old_price": 99990,
+        "bonus": 2999
+    },
+    {
+        "id": 351,
+        "url": "https://www.technodom.kz/p/smartfon-wiko-t10-rally-64gb-green-263650",
+        "product_name": "WIKO T10 Rally 64GB Green",
+        "current_price": 34990,
+        "old_price": 74990,
+        "bonus": 1749
+    },
+    {
+        "id": 352,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-plus-128gb-61286748-blue-mu163-274390",
+        "product_name": "Apple iPhone 15 Plus 128GB Blue (MU163)",
+        "current_price": 594990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 353,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-motorola-g22-4128gb-iceberg-blue-271745",
+        "product_name": "Motorola G22 128GB Iceberg Blue",
+        "current_price": 64990,
+        "old_price": 89990,
+        "bonus": 3249
+    },
+    {
+        "id": 354,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-max-128gb-silver-265316",
+        "product_name": "Apple iPhone 14 Pro Max 128GB Silver",
+        "current_price": 699990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 355,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-12c-128gb4gb-thx-md-671-50-4-ocean-blue-270424",
+        "product_name": "Redmi 12C 128GB Ocean Blue",
+        "current_price": 59990,
+        "old_price": 69990,
+        "bonus": 2999
+    },
+    {
+        "id": 356,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-nova-10-128gb-thx-667-50-4-starry-black-265842",
+        "product_name": "HUAWEI Nova 10 128GB Starry Black",
+        "current_price": 139990,
+        "old_price": null,
+        "bonus": 6999
+    },
+    {
+        "id": 357,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-note-12-pro-256gb8gb-polar-white-270886",
+        "product_name": "Redmi Note 12 Pro 256GB/8GB Polar White",
+        "current_price": 149990,
+        "old_price": null,
+        "bonus": 7499
+    },
+    {
+        "id": 358,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-10-2022-128gb-sea-blue-262095",
+        "product_name": "Xiaomi Redmi 10 (2022) 128GB Sea Blue",
+        "current_price": 59990,
+        "old_price": 99990,
+        "bonus": 2999
+    },
+    {
+        "id": 359,
+        "url": "https://www.technodom.kz/p/smartfon-motorola-edge-40-256gb-eclipse-black-273258",
+        "product_name": "Motorola Edge 40 256GB Eclipse Black",
+        "current_price": 229990,
+        "old_price": null,
+        "bonus": 11499
+    },
+    {
+        "id": 360,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-12-pro-256gb8gb-5g-thx-md-667-200-4-sky-blue-270887",
+        "product_name": "Redmi Note 12 Pro Plus 256GB Sky Blue",
+        "current_price": 199990,
+        "old_price": null,
+        "bonus": 9999
+    },
+    {
+        "id": 361,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-realme-c51-41286750-carbon-black-rmx3830-276077",
+        "product_name": "Realme C51 128/4 Gb Carbon Black (RMX3830)",
+        "current_price": 69990,
+        "old_price": 89990,
+        "bonus": 3499
+    },
+    {
+        "id": 362,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-y33s-128gb-mirror-black-255380",
+        "product_name": "Vivo Y33s 128GB Mirror Black",
+        "current_price": 84990,
+        "old_price": 99990,
+        "bonus": 4249
+    },
+    {
+        "id": 363,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-motorola-g13-41286550-matte-charcoal-273257",
+        "product_name": "Motorola G13 128/4GB Matte Charcoal",
+        "current_price": 59990,
+        "old_price": 79990,
+        "bonus": 2999
+    },
+    {
+        "id": 364,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-z-flip5-512gb-cream-273167",
+        "product_name": "Samsung Galaxy Z Flip5 512GB Cream",
+        "current_price": 569890,
+        "old_price": 669990,
+        "bonus": 28494
+    },
+    {
+        "id": 365,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-12-64gb-black-228608",
+        "product_name": "Apple iPhone 12 64GB Black",
+        "current_price": 314990,
+        "old_price": 349990,
+        "bonus": null
+    },
+    {
+        "id": 366,
+        "url": "https://www.technodom.kz/p/smartfon-wiko-t3-128gb-black-267981",
+        "product_name": "WIKO T3 128GB Black",
+        "current_price": 44990,
+        "old_price": 99990,
+        "bonus": 2249
+    },
+    {
+        "id": 367,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-smart-8-thx-66-13-4-644gb-crystal-green-277087",
+        "product_name": "Infinix SMART 8 64GB Crystal Green",
+        "current_price": 45990,
+        "old_price": null,
+        "bonus": 2299
+    },
+    {
+        "id": 368,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a17-64gb-thx-ad-656-50-4-black-267341",
+        "product_name": "OPPO A17 64GB Black",
+        "current_price": 64990,
+        "old_price": 79990,
+        "bonus": 3249
+    },
+    {
+        "id": 369,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-zero-30-thx-678-108-4-2568gb-misty-green-277101",
+        "product_name": "Infinix ZERO 30 256GB Misty Green",
+        "current_price": 159990,
+        "old_price": null,
+        "bonus": 7999
+    },
+    {
+        "id": 370,
+        "url": "https://www.technodom.kz/p/smartfon-tecno-spark-20-8256gb-gravity-black-277377",
+        "product_name": "Tecno Spark 20 8/256GB Gravity Black",
+        "current_price": 79990,
+        "old_price": 89990,
+        "bonus": 3999
+    },
+    {
+        "id": 371,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a77s-128gb-thx-ad-656-50-4-starry-black-268578",
+        "product_name": "OPPO A77s 128GB Starry Black",
+        "current_price": 119990,
+        "old_price": 139990,
+        "bonus": 5999
+    },
+    {
+        "id": 372,
+        "url": "https://www.technodom.kz/p/smartfon-oppo-a57s-128gb-sky-blue-267875",
+        "product_name": "OPPO A57s 128GB Sky Blue",
+        "current_price": 99990,
+        "old_price": 119990,
+        "bonus": 4999
+    },
+    {
+        "id": 373,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-note-12s-256gb8gb-ice-blue-271289",
+        "product_name": "Redmi Note 12S 256GB/8GB Ice Blue",
+        "current_price": 129990,
+        "old_price": null,
+        "bonus": 6499
+    },
+    {
+        "id": 374,
+        "url": "https://www.technodom.kz/p/smartfon-huawei-nova-11-pro-8256-black-273881",
+        "product_name": "GSM Huawei Nova 11 Pro 256/8GB Black",
+        "current_price": 239990,
+        "old_price": 269990,
+        "bonus": 11999
+    },
+    {
+        "id": 375,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-tecno-spark-20-pro-825667108-sunset-blush-277372",
+        "product_name": "Tecno Spark 20 Pro 256GB Sunset Blush",
+        "current_price": 99990,
+        "old_price": null,
+        "bonus": 4999
+    },
+    {
+        "id": 376,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-wiko-t3-128gb-thx-md-66-48-4-gold-267982",
+        "product_name": "WIKO T3 128GB Gold",
+        "current_price": 44990,
+        "old_price": 99990,
+        "bonus": 2249
+    },
+    {
+        "id": 377,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-12c-64gb4gb-thx-md-671-50-4-graphite-gray-270427",
+        "product_name": "Redmi 12C 64GB Graphite Gray",
+        "current_price": 44990,
+        "old_price": 59990,
+        "bonus": 2249
+    },
+    {
+        "id": 378,
+        "url": "https://www.technodom.kz/p/smartfon-motorola-razr-40-8256gb-vanilla-cream-275446",
+        "product_name": "Motorola Razr 40 8/256GB Vanilla Cream",
+        "current_price": 399990,
+        "old_price": null,
+        "bonus": 19999
+    },
+    {
+        "id": 379,
+        "url": "https://www.technodom.kz/p/smartfon-huawei-nova-11-pro-8256-green-273882",
+        "product_name": "Huawei Nova 11 Pro 256/8GB Green",
+        "current_price": 239990,
+        "old_price": 269990,
+        "bonus": 11999
+    },
+    {
+        "id": 380,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-realme-c30s-644gb-thx-ad-65-8-4-blue-270503",
+        "product_name": "Realme C30s 64GB Blue",
+        "current_price": 44990,
+        "old_price": 59990,
+        "bonus": 2249
+    },
+    {
+        "id": 381,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-note-12-128gb4gb-ice-blue-270893",
+        "product_name": "Redmi Note 12 128GB/4GB Ice Blue",
+        "current_price": 69990,
+        "old_price": 109990,
+        "bonus": 3499
+    },
+    {
+        "id": 382,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-poco-m5s-2568gb-thx-md-643-64-4-blue-272279",
+        "product_name": "Poco M5s 256 Blue",
+        "current_price": 99990,
+        "old_price": 119990,
+        "bonus": 4999
+    },
+    {
+        "id": 383,
+        "url": "https://www.technodom.kz/p/cmartfon-gsm-poco-x5-pro-256gb8gb-5g-thx-md-667-108-5-blue-269779",
+        "product_name": "Poco X5 Pro 256/8GB Blue",
+        "current_price": 179990,
+        "old_price": null,
+        "bonus": 8999
+    },
+    {
+        "id": 384,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s22-plus-128gb-pink-gold-257391",
+        "product_name": "Samsung Galaxy S22+ 128GB Pink Gold",
+        "current_price": 299990,
+        "old_price": 549990,
+        "bonus": 14999
+    },
+    {
+        "id": 385,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-v25-pro-thx-656-64-4-256gb-surfing-blue-265839",
+        "product_name": "Vivo V25 Pro 256GB Surfing Blue",
+        "current_price": 259990,
+        "old_price": 329990,
+        "bonus": 12999
+    },
+    {
+        "id": 386,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-xiaomi-13-lite-256gb8gb-thx-md-655-64-4-lite-pink-270575",
+        "product_name": "Xiaomi 13 Lite 256GB Lite Pink",
+        "current_price": 179990,
+        "old_price": 219990,
+        "bonus": 8999
+    },
+    {
+        "id": 387,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-12c-64gb3gb-thx-md-671-50-4-lavender-purple-272142",
+        "product_name": "Redmi 12C 64GB Lavender Purple",
+        "current_price": 44990,
+        "old_price": 59990,
+        "bonus": 2249
+    },
+    {
+        "id": 388,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a23-64gb-orange-258743",
+        "product_name": "Samsung Galaxy A23 64GB Orange",
+        "current_price": 74990,
+        "old_price": 89990,
+        "bonus": 3749
+    },
+    {
+        "id": 389,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-v27-thx-678-50-8-256gb-5g-noble-black-271237",
+        "product_name": "Vivo V27 256GB Noble Black",
+        "current_price": 269990,
+        "old_price": null,
+        "bonus": 13499
+    },
+    {
+        "id": 390,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-v25e-thx-644-64-4-128gb-sunrise-gold-265835",
+        "product_name": "Vivo V25E 128GB Sunrise Gold",
+        "current_price": 139990,
+        "old_price": 199990,
+        "bonus": 6999
+    },
+    {
+        "id": 391,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-hot-40i-thx-656-32-4-1288gb-horizon-gold-277094",
+        "product_name": "Infinix HOT 40i 128GB Horizon Gold",
+        "current_price": 74990,
+        "old_price": null,
+        "bonus": 3749
+    },
+    {
+        "id": 392,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-12-128gb4gb-thx-md-667-50-4-ice-blue-270882",
+        "product_name": "Redmi Note 12 128GB/4GB Ice Blue",
+        "current_price": 69990,
+        "old_price": 109990,
+        "bonus": 3499
+    },
+    {
+        "id": 393,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-13-256gb-thx-61-12-5-red-252953",
+        "product_name": "Apple iPhone 13 256GB Red",
+        "current_price": 429990,
+        "old_price": 454990,
+        "bonus": 21499
+    },
+    {
+        "id": 394,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-tecno-pova-5-pro-5g-82566750-silver-fanta-277370",
+        "product_name": "Tecno Pova 5 Pro 256GB Silver Fanta",
+        "current_price": 119990,
+        "old_price": 139990,
+        "bonus": 5999
+    },
+    {
+        "id": 395,
+        "url": "https://www.technodom.kz/p/smartfon-wiko-t50-mulan-128gb-black-263646",
+        "product_name": "WIKO T50 Mulan 128GB Black",
+        "current_price": 79990,
+        "old_price": 149990,
+        "bonus": 3999
+    },
+    {
+        "id": 396,
+        "url": "https://www.technodom.kz/p/smartfon-realme-10-2568gb-white-270507",
+        "product_name": "Realme 10 256/8GB White",
+        "current_price": 144990,
+        "old_price": 159990,
+        "bonus": 7249
+    },
+    {
+        "id": 397,
+        "url": "https://www.technodom.kz/p/smartfon-huawei-nova-11-8256-black-273883",
+        "product_name": "Huawei Nova 11 256/8GB Black",
+        "current_price": 199990,
+        "old_price": 209990,
+        "bonus": 9999
+    },
+    {
+        "id": 398,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-motorola-g72-8128gb-polar-blue-271759",
+        "product_name": "Motorola G72 128GB Polar Blue",
+        "current_price": 99990,
+        "old_price": 129990,
+        "bonus": 4999
+    },
+    {
+        "id": 399,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-motorola-g13-41286550-lavender-blue-273256",
+        "product_name": "Motorola G13 128/4GB Lavender Blue",
+        "current_price": 59990,
+        "old_price": 79990,
+        "bonus": 2999
+    },
+    {
+        "id": 400,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a57s-64gb-thx-ad-656-50-4-sky-blue-265208",
+        "product_name": "OPPO A57s 64GB Sky Blue",
+        "current_price": 79990,
+        "old_price": 104990,
+        "bonus": 3999
+    },
+    {
+        "id": 401,
+        "url": "https://www.technodom.kz/p/smartfon-huawei-nova-11-8256-green-273884",
+        "product_name": "Huawei Nova 11 8/256GB Green",
+        "current_price": 199990,
+        "old_price": 209990,
+        "bonus": 9999
+    },
+    {
+        "id": 402,
+        "url": "https://www.technodom.kz/p/smartfon-motorola-g42-4128gb-atlantic-green-271746",
+        "product_name": "Motorola G42 4/128GB Atlantic Green",
+        "current_price": 79990,
+        "old_price": 119990,
+        "bonus": 3999
+    },
+    {
+        "id": 403,
+        "url": "https://www.technodom.kz/p/cmartfon-gsm-poco-x5-256gb8gb-5g-thx-md-667-48-5-blue-269776",
+        "product_name": "Cмартфон Poco X5 256GB/8GB Blue",
+        "current_price": 129990,
+        "old_price": 159990,
+        "bonus": 6499
+    },
+    {
+        "id": 404,
+        "url": "https://www.technodom.kz/p/smartfon-poco-c40-644gb-poco-yellow-263736",
+        "product_name": "Poco C40 64/4GB POCO Yellow",
+        "current_price": 49990,
+        "old_price": 74990,
+        "bonus": 2499
+    },
+    {
+        "id": 405,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-motorola-g72-8128gb-meteorite-grey-271758",
+        "product_name": "Motorola G72 128GB Meteorite Grey",
+        "current_price": 99990,
+        "old_price": 129990,
+        "bonus": 4999
+    },
+    {
+        "id": 406,
+        "url": "https://www.technodom.kz/p/smartfon-infinix-note-30-2568gb-interstellar-blue-274227",
+        "product_name": "Infinix Note 30 256/8GB Interstellar Blue",
+        "current_price": 119990,
+        "old_price": null,
+        "bonus": 5999
+    },
+    {
+        "id": 407,
+        "url": "https://www.technodom.kz/p/smartfon-motorola-g32-128gb-satin-silver-273295",
+        "product_name": "Motorola G32 128GB Satin Silver",
+        "current_price": 74990,
+        "old_price": 99990,
+        "bonus": 3749
+    },
+    {
+        "id": 408,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-note-12-pro-256gb8gb-glacier-blue-270885",
+        "product_name": "Redmi Note 12 Pro 256GB/8GB Glacier Blue",
+        "current_price": 149990,
+        "old_price": null,
+        "bonus": 7499
+    },
+    {
+        "id": 409,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-12-128gb6gb-thx-md-667-50-4-ice-blue-270883",
+        "product_name": "Redmi Note 12 128GB/6GB Ice Blue",
+        "current_price": 104990,
+        "old_price": null,
+        "bonus": 5249
+    },
+    {
+        "id": 410,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-a042flbdskz-thx-65-13-4-galaxy-a04e-32gb-blue-269073",
+        "product_name": "Samsung Galaxy A04e 32GB Blue",
+        "current_price": 54890,
+        "old_price": 59990,
+        "bonus": 2744
+    },
+    {
+        "id": 411,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-smart-8-thx-66-13-4-644gb-shiny-gold-277088",
+        "product_name": "Infinix SMART 8 64GB Shiny Gold",
+        "current_price": 45990,
+        "old_price": null,
+        "bonus": 2299
+    },
+    {
+        "id": 412,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-tecno-camon-20-pro-82566664-predawn-black-277363",
+        "product_name": "Tecno Camon 20 pro 8/256 Гб Predawn Black",
+        "current_price": 129990,
+        "old_price": null,
+        "bonus": 6499
+    },
+    {
+        "id": 413,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-12-64gb-white-228609",
+        "product_name": "Apple iPhone 12 64GB White",
+        "current_price": 314990,
+        "old_price": 349990,
+        "bonus": null
+    },
+    {
+        "id": 414,
+        "url": "https://www.technodom.kz/p/smartfon-motorola-g32-128gb-rose-gold-273296",
+        "product_name": "Motorola G32 128GB Rose Gold",
+        "current_price": 74990,
+        "old_price": 99990,
+        "bonus": 3749
+    },
+    {
+        "id": 415,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-v25-thx-644-64-5-256gb-5g-diamond-black-265836",
+        "product_name": "Vivo V25 256GB 5G Diamond Black",
+        "current_price": 199990,
+        "old_price": 259990,
+        "bonus": 9999
+    },
+    {
+        "id": 416,
+        "url": "https://www.technodom.kz/p/smartfon-poco-m5-64gb-yellow-266437",
+        "product_name": "Poco M5 64GB Yellow",
+        "current_price": 59990,
+        "old_price": 89990,
+        "bonus": 2999
+    },
+    {
+        "id": 417,
+        "url": "https://www.technodom.kz/p/smartfon-motorola-g32-128gb-mineral-grey-273294",
+        "product_name": "Motorola G32 128GB Mineral Grey",
+        "current_price": 74990,
+        "old_price": 99990,
+        "bonus": 3749
+    },
+    {
+        "id": 418,
+        "url": "https://www.technodom.kz/p/smartfon-huawei-nova-y70-64gb-crystal-blue-263695",
+        "product_name": "HUAWEI Nova Y70 64GB Crystal Blue",
+        "current_price": 44990,
+        "old_price": 69990,
+        "bonus": 2249
+    },
+    {
+        "id": 419,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s928bzygskz-thx-68-200-5-galaxy-s24-ultra-5g-256gb-titanium-yellow-277512",
+        "product_name": "Samsung Galaxy S24 Ultra 5G 256/12GB Titanium Yellow",
+        "current_price": 769890,
+        "old_price": null,
+        "bonus": 38494
+    },
+    {
+        "id": 420,
+        "url": "https://www.technodom.kz/p/smartfon-infinix-note-30-2568gb-obsidian-black-274226",
+        "product_name": "Infinix Note 30 256/8GB Obsidian Black",
+        "current_price": 119990,
+        "old_price": null,
+        "bonus": 5999
+    },
+    {
+        "id": 421,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-512gb-gold-265309",
+        "product_name": "Apple iPhone 14 Pro 512GB Gold",
+        "current_price": 799990,
+        "old_price": 839990,
+        "bonus": null
+    },
+    {
+        "id": 422,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-y33s-128gb-midday-dream-255381",
+        "product_name": "Vivo Y33s 128GB Midday Dream",
+        "current_price": 84990,
+        "old_price": 99990,
+        "bonus": 4249
+    },
+    {
+        "id": 423,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a53-256gb-orange-258754",
+        "product_name": "Samsung Galaxy A53 256GB Orange",
+        "current_price": 169990,
+        "old_price": null,
+        "bonus": 8499
+    },
+    {
+        "id": 424,
+        "url": "https://www.technodom.kz/p/smartfon-motorola-g52-6128gb-charcoal-grey-271748",
+        "product_name": "Motorola G52 6/128GB Charcoal Grey",
+        "current_price": 89990,
+        "old_price": 139990,
+        "bonus": 4499
+    },
+    {
+        "id": 425,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-tecno-pova-5-82566750-amber-gold-277367",
+        "product_name": "Tecno Pova 5 8/256 Гб Amber Gold",
+        "current_price": 109990,
+        "old_price": null,
+        "bonus": 5499
+    },
+    {
+        "id": 426,
+        "url": "https://www.technodom.kz/p/smartfon-tecno-spark-20-8256gb-cyber-white-277378",
+        "product_name": "Tecno Spark 20 8/256GB Cyber White",
+        "current_price": 79990,
+        "old_price": 89990,
+        "bonus": 3999
+    },
+    {
+        "id": 427,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-nova-10-128gb-thx-667-50-4-starry-silver-265843",
+        "product_name": "HUAWEI Nova 10 128GB Starry Silver",
+        "current_price": 139990,
+        "old_price": null,
+        "bonus": 6999
+    },
+    {
+        "id": 428,
+        "url": "https://www.technodom.kz/p/smartfon-huawei-nova-y70-128gb-midnight-black-261769",
+        "product_name": "HUAWEI Nova Y70 128GB Midnight Black",
+        "current_price": 49990,
+        "old_price": 79990,
+        "bonus": 2499
+    },
+    {
+        "id": 429,
+        "url": "https://www.technodom.kz/p/smartfon-poco-c40-644gb-power-black-263737",
+        "product_name": "Poco C40 64/4GB Power Black",
+        "current_price": 49990,
+        "old_price": 74990,
+        "bonus": 2499
+    },
+    {
+        "id": 430,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a32-64gb-blue-236639",
+        "product_name": "Samsung Galaxy A32 64GB Blue",
+        "current_price": 69990,
+        "old_price": 79990,
+        "bonus": 3499
+    },
+    {
+        "id": 431,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-note-12s-256gb8gb-pearl-green-271290",
+        "product_name": "Redmi Note 12S 256GB/8GB Pearl Green",
+        "current_price": 129990,
+        "old_price": null,
+        "bonus": 6499
+    },
+    {
+        "id": 432,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-12c-128gb4gb-thx-md-671-50-4-mint-green-270426",
+        "product_name": "Redmi 12C 128GB Mint Green",
+        "current_price": 59990,
+        "old_price": 69990,
+        "bonus": 2999
+    },
+    {
+        "id": 433,
+        "url": "https://www.technodom.kz/p/smartfon-oppo-reno-7-128gb-cosmic-black-259519",
+        "product_name": "OPPO Reno 7 128GB Cosmic Black",
+        "current_price": 99990,
+        "old_price": 129990,
+        "bonus": 4999
+    },
+    {
+        "id": 434,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-10-2022-64gb-sea-blue-262092",
+        "product_name": "Xiaomi Redmi 10 (2022) 64GB Sea Blue",
+        "current_price": 49990,
+        "old_price": 89990,
+        "bonus": 2499
+    },
+    {
+        "id": 435,
+        "url": "https://www.technodom.kz/p/smartfon-realme-11-256gb-glory-gold-276084",
+        "product_name": "Realme 11 256GB Glory Gold",
+        "current_price": 169990,
+        "old_price": null,
+        "bonus": 8499
+    },
+    {
+        "id": 436,
+        "url": "https://www.technodom.kz/p/smartfon-huawei-nova-10-se-128gb-starry-black-266869",
+        "product_name": "HUAWEI Nova 10 SE 128GB Starry Black",
+        "current_price": 109990,
+        "old_price": 139990,
+        "bonus": 5499
+    },
+    {
+        "id": 437,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-y02-thx-651-8-4-32gb-cosmic-grey-269057",
+        "product_name": "Vivo Y02 32GB Cosmic Grey",
+        "current_price": 49990,
+        "old_price": null,
+        "bonus": 2499
+    },
+    {
+        "id": 438,
+        "url": "https://www.technodom.kz/p/smartfon-poco-c40-644gb-coral-green-263735",
+        "product_name": "Poco C40 64/4GB Coral Green",
+        "current_price": 49990,
+        "old_price": 74990,
+        "bonus": 2499
+    },
+    {
+        "id": 439,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s24-5g-128gb-marble-gray-277498",
+        "product_name": "Samsung Galaxy S24 5G 128GB Marble Gray",
+        "current_price": 499890,
+        "old_price": null,
+        "bonus": 24994
+    },
+    {
+        "id": 440,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-512gb-space-black-265307",
+        "product_name": "Apple iPhone 14 Pro 512GB Space Black",
+        "current_price": 799990,
+        "old_price": 839990,
+        "bonus": null
+    },
+    {
+        "id": 441,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-a2-64gb-light-blue-273103",
+        "product_name": "Redmi A2+ 64GB Light Blue",
+        "current_price": 42990,
+        "old_price": null,
+        "bonus": 2149
+    },
+    {
+        "id": 442,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-plus-256gb-62566748-green-mu1g3-274396",
+        "product_name": "Apple iPhone 15 Plus 256GB Green (MU1G3)",
+        "current_price": 664990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 443,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-nova-y90-128gb-thx-67-50-4-263692",
+        "product_name": "HUAWEI Nova Y90 128GB Emerald Green",
+        "current_price": 59990,
+        "old_price": 89990,
+        "bonus": 2999
+    },
+    {
+        "id": 444,
+        "url": "https://www.technodom.kz/p/smartfon-huawei-nova-y90-128gb-midnight-black-263691",
+        "product_name": "HUAWEI Nova Y90 128GB Midnight Black",
+        "current_price": 59990,
+        "old_price": 89990,
+        "bonus": 2999
+    },
+    {
+        "id": 445,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-max-1tb-gold-265329",
+        "product_name": "Apple iPhone 14 Pro Max 1TB Gold",
+        "current_price": 1049990,
+        "old_price": null,
+        "bonus": 52499
+    },
+    {
+        "id": 446,
+        "url": "https://www.technodom.kz/p/smartfon-infinix-hot-30-2568gb-surfing-green-274225",
+        "product_name": "Infinix Hot 30 256/8GB Surfing Green",
+        "current_price": 89990,
+        "old_price": null,
+        "bonus": 4499
+    },
+    {
+        "id": 447,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-motorola-g22-4128gb-cosmic-black-271744",
+        "product_name": "Motorola G22 128GB Cosmic Black",
+        "current_price": 64990,
+        "old_price": 89990,
+        "bonus": 3249
+    },
+    {
+        "id": 448,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-p60-pro-256gb-thx-667-48-5-black-271155",
+        "product_name": "Huawei P60 Pro 256Gb Black",
+        "current_price": 499990,
+        "old_price": null,
+        "bonus": 24999
+    },
+    {
+        "id": 449,
+        "url": "https://www.technodom.kz/p/smartfon-motorola-e32s-464-slate-grey-271743",
+        "product_name": "Motorola E32s 4/64 Slate Grey",
+        "current_price": 44990,
+        "old_price": 69990,
+        "bonus": 2249
+    },
+    {
+        "id": 450,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-hot-30-play-thx-682-16-4-1288gb-blade-white-274222",
+        "product_name": "Infinix Hot 30 Play 128/8GB Blade White",
+        "current_price": 74990,
+        "old_price": null,
+        "bonus": 3749
+    },
+    {
+        "id": 451,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-honor-x6-464-midnight-black-272179",
+        "product_name": "Honor X6 4+64GB Midnight black",
+        "current_price": 64990,
+        "old_price": 89990,
+        "bonus": 3249
+    },
+    {
+        "id": 452,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-max-512gb-gold-265325",
+        "product_name": "Apple iPhone 14 Pro Max 512GB Gold",
+        "current_price": 909990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 453,
+        "url": "https://www.technodom.kz/p/cmartfon-gsm-poco-x5-256gb8gb-5g-thx-md-667-48-5-black-269775",
+        "product_name": "Cмартфон Poco X5 256GB/8GB Black",
+        "current_price": 129990,
+        "old_price": 159990,
+        "bonus": 6499
+    },
+    {
+        "id": 454,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-motorola-edge-30-ultra-12256-interstellar-black-271752",
+        "product_name": "Motorola Edge 30 Ultra 256GB Interstellar Black",
+        "current_price": 349990,
+        "old_price": 499990,
+        "bonus": 17499
+    },
+    {
+        "id": 455,
+        "url": "https://www.technodom.kz/p/smartfon-infinix-hot-30-2568gb-racing-black-274223",
+        "product_name": "Infinix Hot 30 256/8GB Racing Black",
+        "current_price": 89990,
+        "old_price": null,
+        "bonus": 4499
+    },
+    {
+        "id": 456,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-a55-64gb-thx-ad-651-50-4-rainbow-blue-258265",
+        "product_name": "OPPO A55 64GB Rainbow Blue",
+        "current_price": 39990,
+        "old_price": 49990,
+        "bonus": 1999
+    },
+    {
+        "id": 457,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-max-128gb-space-black-265315",
+        "product_name": "Apple iPhone 14 Pro Max 128GB Space Black",
+        "current_price": 699990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 458,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-128gb-silver-265300",
+        "product_name": "Apple iPhone 14 Pro 128GB Silver",
+        "current_price": 599990,
+        "old_price": 629990,
+        "bonus": null
+    },
+    {
+        "id": 459,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-a2-64gb-light-green-273104",
+        "product_name": "Redmi A2+ 64GB Light Green",
+        "current_price": 42990,
+        "old_price": null,
+        "bonus": 2149
+    },
+    {
+        "id": 460,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-13-pro-max-1tb-sierra-blue-253006",
+        "product_name": "Apple iPhone 13 Pro Max 1TB Sierra Blue",
+        "current_price": 699990,
+        "old_price": 749990,
+        "bonus": null
+    },
+    {
+        "id": 461,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-1tb-space-black-265311",
+        "product_name": "Apple iPhone 14 Pro 1TB Space Black",
+        "current_price": 979990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 462,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-a1-32gb-thx-md-652-8-4-light-blue-267084",
+        "product_name": "Redmi A1+ 32GB Light Blue",
+        "current_price": 24990,
+        "old_price": 49990,
+        "bonus": 1249
+    },
+    {
+        "id": 463,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-12c-64gb4gb-thx-md-671-50-4-mint-green-270428",
+        "product_name": "Redmi 12C 64GB Mint Green",
+        "current_price": 44990,
+        "old_price": 59990,
+        "bonus": 2249
+    },
+    {
+        "id": 464,
+        "url": "https://www.technodom.kz/p/smartfon-xiaomi-12-lite-128gb8gb-black-263729",
+        "product_name": "Xiaomi 12 Lite 128GB/8GB Black",
+        "current_price": 99990,
+        "old_price": 189990,
+        "bonus": 4999
+    },
+    {
+        "id": 465,
+        "url": "https://www.technodom.kz/p/smartfon-motorola-e32s-464-misty-silver-271742",
+        "product_name": "Motorola E32s 4/64 Misty Silver",
+        "current_price": 44990,
+        "old_price": 69990,
+        "bonus": 2249
+    },
+    {
+        "id": 466,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-honor-x6-464-titanium-silver-272181",
+        "product_name": "Honor X6 4+64GB Titanium Silver",
+        "current_price": 64990,
+        "old_price": 89990,
+        "bonus": 3249
+    },
+    {
+        "id": 467,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-pro-1tb-810246148-natural-titanium-mtvf3-274416",
+        "product_name": "Apple iPhone 15 Pro 1024/8GB Natural Titanium (MTVF3)",
+        "current_price": 1049990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 468,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s921bzydskz-thx-62-50-5-galaxy-s24-5g-128gb-amber-yellow-277496",
+        "product_name": "Samsung Galaxy S24 5G 128GB Amber Yellow",
+        "current_price": 499890,
+        "old_price": null,
+        "bonus": 24994
+    },
+    {
+        "id": 469,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-max-512gb-silver-265324",
+        "product_name": "Apple iPhone 14 Pro Max 512GB Silver",
+        "current_price": 909990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 470,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-256gb-silver-265304",
+        "product_name": "Apple iPhone 14 Pro 256GB Silver",
+        "current_price": 659990,
+        "old_price": 699990,
+        "bonus": null
+    },
+    {
+        "id": 471,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-plus-256gb-62566748-yellow-mu1d3-274394",
+        "product_name": "Apple iPhone 15 Plus 256GB Yellow (MU1D3)",
+        "current_price": 664990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 472,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s21-fe-128gb-violet-263962",
+        "product_name": "Samsung Galaxy S21 FE 128GB Violet New",
+        "current_price": 269890,
+        "old_price": 349990,
+        "bonus": 13494
+    },
+    {
+        "id": 473,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-note-12-128gb6gb-thx-md-667-50-4-mint-green-270652",
+        "product_name": "Redmi Note 12 128GB/6GB Mint Green",
+        "current_price": 104990,
+        "old_price": null,
+        "bonus": 5249
+    },
+    {
+        "id": 474,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-s24-5g-256gb-amber-yellow-277504",
+        "product_name": "Samsung Galaxy S24+ 5G 256GB Amber Yellow",
+        "current_price": 614890,
+        "old_price": null,
+        "bonus": 30744
+    },
+    {
+        "id": 475,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s921bzvdskz-thx-62-50-5-galaxy-s24-5g-128gb-cobalt-violet-277497",
+        "product_name": "Samsung Galaxy S24 5G 128GB Cobalt Violet",
+        "current_price": 499890,
+        "old_price": null,
+        "bonus": 24994
+    },
+    {
+        "id": 476,
+        "url": "https://www.technodom.kz/p/smartfon-honor-magic-v2-16512gb-black-leather-277914",
+        "product_name": "HONOR Magic V2 16/512GB Black Leather",
+        "current_price": 999990,
+        "old_price": null,
+        "bonus": 49999
+    },
+    {
+        "id": 477,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-mate-x3-512gb-thx-785-50-5-dark-green-271154",
+        "product_name": "Huawei Mate X3 512GB Dark Green",
+        "current_price": 799990,
+        "old_price": 929990,
+        "bonus": 39999
+    },
+    {
+        "id": 478,
+        "url": "https://www.technodom.kz/p/smartfon-xiaomi-13t-256gb12gb-alpine-blue-274151",
+        "product_name": "Xiaomi 13T 256GB/12GB Alpine Blue",
+        "current_price": 299990,
+        "old_price": null,
+        "bonus": 14999
+    },
+    {
+        "id": 479,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-xiaomi-13-256gb8gb-black-270292",
+        "product_name": "Xiaomi 13 256GB/8GB Black",
+        "current_price": 429990,
+        "old_price": 519990,
+        "bonus": 21499
+    },
+    {
+        "id": 480,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y16-thx-651-13-4-32gb-stellar-black-268182",
+        "product_name": "Vivo Y16 32GB Stellar Black",
+        "current_price": 58690,
+        "old_price": 79990,
+        "bonus": 2934
+    },
+    {
+        "id": 481,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-zero-30-thx-678-108-4-2568gb-sunset-gold-277102",
+        "product_name": "Infinix ZERO 30 256GB Sunset Gold",
+        "current_price": 159990,
+        "old_price": null,
+        "bonus": 7999
+    },
+    {
+        "id": 482,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-redmi-12c-128gb4gb-thx-md-671-50-4-lavender-purple-272143",
+        "product_name": "Redmi 12C 128GB Lavender Purple",
+        "current_price": 59990,
+        "old_price": 69990,
+        "bonus": 2999
+    },
+    {
+        "id": 483,
+        "url": "https://www.technodom.kz/p/smartfon-xiaomi-12t-256gb-blue-266444",
+        "product_name": "Xiaomi 12T 256GB/8GB Blue",
+        "current_price": 179990,
+        "old_price": 249990,
+        "bonus": 8999
+    },
+    {
+        "id": 484,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-pro-max-1tb-blue-titanium-mu7k3-274429",
+        "product_name": "Apple iPhone 15 Pro Max 1TB Blue Titanium (MU7K3)",
+        "current_price": 1119990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 485,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-xiaomi-13-256gb8gb-white-270293",
+        "product_name": "Xiaomi 13 256GB/8GB White",
+        "current_price": 429990,
+        "old_price": 519990,
+        "bonus": 21499
+    },
+    {
+        "id": 486,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-nova-10-pro-256gb-thx-678-50-4-starry-silver-265841",
+        "product_name": "HUAWEI Nova 10 Pro 256GB Starry Silver",
+        "current_price": 179990,
+        "old_price": null,
+        "bonus": 8999
+    },
+    {
+        "id": 487,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-13-pro-max-1tb-green-258959",
+        "product_name": "Apple iPhone 13 Pro Max 1TB Green",
+        "current_price": 699990,
+        "old_price": 749990,
+        "bonus": null
+    },
+    {
+        "id": 488,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-13-512gb-thx-61-12-5-starlight-252956",
+        "product_name": "Apple iPhone 13 512GB Starlight",
+        "current_price": 634990,
+        "old_price": null,
+        "bonus": 31749
+    },
+    {
+        "id": 489,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-z-flip4-128gb-blue-264018",
+        "product_name": "Samsung Galaxy Z Flip4 128GB Blue",
+        "current_price": 329990,
+        "old_price": 549990,
+        "bonus": 16499
+    },
+    {
+        "id": 490,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-p60-pro-256gb-thx-667-48-5-rococo-pearl-271156",
+        "product_name": "Huawei P60 Pro 256GB Rococo Pearl",
+        "current_price": 499990,
+        "old_price": null,
+        "bonus": 24999
+    },
+    {
+        "id": 491,
+        "url": "https://www.technodom.kz/p/smartfon-honor-magic-v2-16512gb-purple-glass-277915",
+        "product_name": "Honor Magic V2 16/512GB Purple Glass",
+        "current_price": 999990,
+        "old_price": null,
+        "bonus": 49999
+    },
+    {
+        "id": 492,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-z-fold4-256gb-beige-264028",
+        "product_name": "Samsung Galaxy Z Fold4 256GB Beige",
+        "current_price": 499990,
+        "old_price": 999990,
+        "bonus": 24999
+    },
+    {
+        "id": 493,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-12-128gb-white-228614",
+        "product_name": "Apple iPhone 12 128GB White",
+        "current_price": 349990,
+        "old_price": null,
+        "bonus": 17499
+    },
+    {
+        "id": 494,
+        "url": "https://www.technodom.kz/p/smartfon-xiaomi-13t-256gb12gb-meadow-green-274153",
+        "product_name": "Xiaomi 13T 256GB/12GB Meadow Green",
+        "current_price": 299990,
+        "old_price": null,
+        "bonus": 14999
+    },
+    {
+        "id": 495,
+        "url": "https://www.technodom.kz/p/smartfon-xiaomi-13t-pro-512gb12gb-black-274155",
+        "product_name": "Xiaomi 13T Pro 512GB/12GB Black",
+        "current_price": 389990,
+        "old_price": null,
+        "bonus": 19499
+    },
+    {
+        "id": 496,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-xiaomi-13-256gb12gb-black-270289",
+        "product_name": "Xiaomi 13 256GB/12GB Black",
+        "current_price": 449990,
+        "old_price": 549990,
+        "bonus": 22499
+    },
+    {
+        "id": 497,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-find-n2-flip-thx-ad-68-50-5-moonlit-purple-271292",
+        "product_name": "OPPO Find N2 Flip 256GB Moonlit Purple",
+        "current_price": 599990,
+        "old_price": null,
+        "bonus": 29999
+    },
+    {
+        "id": 498,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-mate-x3-512gb-thx-785-50-5-black-271153",
+        "product_name": "Huawei Mate X3 512GB Black",
+        "current_price": 799990,
+        "old_price": 929990,
+        "bonus": 39999
+    },
+    {
+        "id": 499,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-v25e-thx-644-64-4-128gb-diamond-black-265834",
+        "product_name": "Vivo V25E 128GB Diamond Black",
+        "current_price": 139990,
+        "old_price": 199990,
+        "bonus": 6999
+    },
+    {
+        "id": 500,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-zte-blade-v50-vita-61286750-black-277258",
+        "product_name": "ZTE Blade V50 Vita 128GB Black",
+        "current_price": 69990,
+        "old_price": null,
+        "bonus": 3499
+    },
+    {
+        "id": 501,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-512gb-thx-61-12-5-purple-265281",
+        "product_name": "Apple iPhone 14 512GB Purple",
+        "current_price": 664990,
+        "old_price": 699990,
+        "bonus": null
+    },
+    {
+        "id": 502,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s916bzgdskz-thx-66-50-5-galaxy-s23-256gb-green-269585",
+        "product_name": "Samsung Galaxy S23+ 256GB Green",
+        "current_price": 459890,
+        "old_price": 599990,
+        "bonus": 22994
+    },
+    {
+        "id": 503,
+        "url": "https://www.technodom.kz/p/smartfon-xiaomi-13t-pro-512gb12gb-meadow-green-274156",
+        "product_name": "Xiaomi 13T Pro 512GB/12GB Meadow Green",
+        "current_price": 389990,
+        "old_price": null,
+        "bonus": 19499
+    },
+    {
+        "id": 504,
+        "url": "https://www.technodom.kz/p/smartfon-wiko-10-128gb-black-267294",
+        "product_name": "WIKO 10 128GB Black",
+        "current_price": 69990,
+        "old_price": 129990,
+        "bonus": 3499
+    },
+    {
+        "id": 505,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-tecno-camon-20-pro-82566664-serenity-blue-277364",
+        "product_name": "Tecno Camon 20 pro 8/256 Гб Serenity Blue",
+        "current_price": 129990,
+        "old_price": null,
+        "bonus": 6499
+    },
+    {
+        "id": 506,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-zte-blade-v50-design-81286650-black-277256",
+        "product_name": "ZTE Blade V50 Design 8/128 Гб Black",
+        "current_price": 79990,
+        "old_price": null,
+        "bonus": 3999
+    },
+    {
+        "id": 507,
+        "url": "https://www.technodom.kz/p/smartfon-xiaomi-12x-256gb8gb-gray-259365",
+        "product_name": "Xiaomi 12X 256GB/8GB Gray",
+        "current_price": 199990,
+        "old_price": 299990,
+        "bonus": 9999
+    },
+    {
+        "id": 508,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-hot-30i-thx-656-13-4-1288gb-mirror-black-274218",
+        "product_name": "Infinix Hot 30i 128/8GB Mirror Black",
+        "current_price": 69990,
+        "old_price": null,
+        "bonus": 3499
+    },
+    {
+        "id": 509,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-y02-32gb-orchid-blue-269058",
+        "product_name": "Vivo Y02 32GB Orchid Bluе",
+        "current_price": 49990,
+        "old_price": null,
+        "bonus": 2499
+    },
+    {
+        "id": 510,
+        "url": "https://www.technodom.kz/p/smartfon-motorola-razr-40-ultra-256gb-infinite-black-273260",
+        "product_name": "Motorola Razr 40 Ultra 256GB Infinite Black",
+        "current_price": 599900,
+        "old_price": null,
+        "bonus": 29995
+    },
+    {
+        "id": 511,
+        "url": "https://www.technodom.kz/p/smartfon-realme-10-pro-25612gb-black-270508",
+        "product_name": "Realme 10 Pro+ 256/12GB Black",
+        "current_price": 224990,
+        "old_price": 249990,
+        "bonus": 11249
+    },
+    {
+        "id": 512,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-512gb-silver-265308",
+        "product_name": "Apple iPhone 14 Pro 512GB Silver",
+        "current_price": 799990,
+        "old_price": 839990,
+        "bonus": null
+    },
+    {
+        "id": 513,
+        "url": "https://www.technodom.kz/p/smartfon-huawei-nova-10-se-128gb-mint-green-266871",
+        "product_name": "HUAWEI Nova 10 SE 128GB Mint Green",
+        "current_price": 109990,
+        "old_price": 139990,
+        "bonus": 5499
+    },
+    {
+        "id": 514,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-nova-10-se-128gb-thx-667-108-4-starry-silver-266870",
+        "product_name": "HUAWEI Nova 10 SE 128GB Starry Silver",
+        "current_price": 109990,
+        "old_price": 139990,
+        "bonus": 5499
+    },
+    {
+        "id": 515,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-256gb-yellow-270488",
+        "product_name": "Apple iPhone 14 256GB Yellow",
+        "current_price": 524990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 516,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-p60-256gb-thx-667-48-5-green-271158",
+        "product_name": "Huawei P60 256GB Green",
+        "current_price": 399990,
+        "old_price": null,
+        "bonus": 19999
+    },
+    {
+        "id": 517,
+        "url": "https://www.technodom.kz/p/smartfon-wiko-t50-mulan-128gb-pink-263648",
+        "product_name": "WIKO T50 Mulan 128GB Pink",
+        "current_price": 79990,
+        "old_price": 149990,
+        "bonus": 3999
+    },
+    {
+        "id": 518,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-v25-pro-thx-656-64-4-256gb-starlight-black-265838",
+        "product_name": "Vivo V25 Pro 256GB Starlight Black",
+        "current_price": 259990,
+        "old_price": 329990,
+        "bonus": 12999
+    },
+    {
+        "id": 519,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-128gb-yellow-270487",
+        "product_name": "Apple iPhone 14 128GB Yellow",
+        "current_price": 454990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 520,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-wiko-10-128gb-thx-md-674-50-4-blue-267295",
+        "product_name": "WIKO 10 128GB Blue",
+        "current_price": 69990,
+        "old_price": 129990,
+        "bonus": 3499
+    },
+    {
+        "id": 521,
+        "url": "https://www.technodom.kz/p/smartfon-samsung-galaxy-a53-256gb-white-258755",
+        "product_name": "Samsung Galaxy A53 256GB White",
+        "current_price": 169990,
+        "old_price": null,
+        "bonus": 8499
+    },
+    {
+        "id": 522,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-zte-blade-v50-design-81286650-green-277257",
+        "product_name": "ZTE Blade V50 Design 8/128 Гб Green",
+        "current_price": 79990,
+        "old_price": null,
+        "bonus": 3999
+    },
+    {
+        "id": 523,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-zte-nubia-redmagic-7-5g-182566864-supernova-275443",
+        "product_name": "ZTE Nubia Redmagic 7 256GB Supernova",
+        "current_price": 389990,
+        "old_price": null,
+        "bonus": 19499
+    },
+    {
+        "id": 524,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-max-1tb-silver-265328",
+        "product_name": "Apple iPhone 14 Pro Max 1TB Silver",
+        "current_price": 1049990,
+        "old_price": null,
+        "bonus": 52499
+    },
+    {
+        "id": 525,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-256gb-yellow-mtp83-274379",
+        "product_name": "Apple iPhone 15 256GB Yellow (MTP83)",
+        "current_price": 529990,
+        "old_price": 594990,
+        "bonus": null
+    },
+    {
+        "id": 526,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s916blidskz-thx-66-50-5-galaxy-s23-256gb-light-pink-269583",
+        "product_name": "Samsung Galaxy S23+ 256GB Light pink",
+        "current_price": 459890,
+        "old_price": 599990,
+        "bonus": 22994
+    },
+    {
+        "id": 527,
+        "url": "https://www.technodom.kz/p/smartfon-wiko-t50-mulan-128gb-green-263647",
+        "product_name": "WIKO T50 Mulan 128GB Green",
+        "current_price": 79990,
+        "old_price": 149990,
+        "bonus": 3999
+    },
+    {
+        "id": 528,
+        "url": "https://www.technodom.kz/p/smartfon-infinix-hot-30-2568gb-sonic-white-274224",
+        "product_name": "Infinix Hot 30 256/8GB Sonic White",
+        "current_price": 89990,
+        "old_price": null,
+        "bonus": 4499
+    },
+    {
+        "id": 529,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-plus-256gb-thx-67-12-5-midnight-265289",
+        "product_name": "Apple iPhone 14 Plus 256GB Midnight",
+        "current_price": 594990,
+        "old_price": 629990,
+        "bonus": null
+    },
+    {
+        "id": 530,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-reno8t-256gb-5g-thx-md-67-108-5-sunrise-gold-270222",
+        "product_name": "OPPO Reno8T 5G 256GB Sunrise Gold",
+        "current_price": 249990,
+        "old_price": 299990,
+        "bonus": 12499
+    },
+    {
+        "id": 531,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-oppo-find-n2-flip-thx-ad-68-50-5-astral-black-271291",
+        "product_name": "OPPO Find N2 Flip 256GB Astral Black",
+        "current_price": 599990,
+        "old_price": null,
+        "bonus": 29999
+    },
+    {
+        "id": 532,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-plus-256gb-62566748-blue-mu1f3-274395",
+        "product_name": "Apple iPhone 15 Plus 256GB Blue (MU1F3)",
+        "current_price": 664990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 533,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-honor-x6-464-ocean-blue-272180",
+        "product_name": "Honor X6 4+64GB Ocean Blue",
+        "current_price": 64990,
+        "old_price": 89990,
+        "bonus": 3249
+    },
+    {
+        "id": 534,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-tecno-spark-20-pro-825667108-moonlit-black-277371",
+        "product_name": "Tecno Spark 20 Pro 256GB Moonlit Black",
+        "current_price": 99990,
+        "old_price": null,
+        "bonus": 4999
+    },
+    {
+        "id": 535,
+        "url": "https://www.technodom.kz/p/smartfon-wiko-10-128gb-silver-267296",
+        "product_name": "WIKO 10 128GB Silver",
+        "current_price": 69990,
+        "old_price": 129990,
+        "bonus": 3499
+    },
+    {
+        "id": 536,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-motorola-razr-2022-8256-satin-black-271754",
+        "product_name": "Motorola Razr 2022 256GB Satin Black",
+        "current_price": 399990,
+        "old_price": 599990,
+        "bonus": 19999
+    },
+    {
+        "id": 537,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-zte-blade-v50-vita-61286750-blue-277259",
+        "product_name": "ZTE Blade V50 Vita 128Gb Blue",
+        "current_price": 69990,
+        "old_price": null,
+        "bonus": 3499
+    },
+    {
+        "id": 538,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-13-mini-256gb-blue-252969",
+        "product_name": "Apple iPhone 13 mini 256GB Blue",
+        "current_price": 419990,
+        "old_price": 454990,
+        "bonus": null
+    },
+    {
+        "id": 539,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-512gb-black-mtpc3-274382",
+        "product_name": "Apple iPhone 15 512GB Black (MTPC3)",
+        "current_price": 769990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 540,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-zte-nubia-redmagic-7-5g-162566864-pulsar-275442",
+        "product_name": "ZTE Nubia Redmagic 7 256GB Pulsar",
+        "current_price": 349990,
+        "old_price": null,
+        "bonus": 17499
+    },
+    {
+        "id": 541,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-huawei-nova-9se-128gb-thx-678-108-4-blue-259352",
+        "product_name": "HUAWEI Nova 9se 128GB Blue",
+        "current_price": 79990,
+        "old_price": 89990,
+        "bonus": 3999
+    },
+    {
+        "id": 542,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-hot-30i-thx-656-13-4-1288gb-glacier-blue-274220",
+        "product_name": "Infinix Hot 30i 128/8GB Glacier Blue",
+        "current_price": 69990,
+        "old_price": null,
+        "bonus": 3499
+    },
+    {
+        "id": 543,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-note-12-128gb6gb-onyx-gray-270649",
+        "product_name": "Redmi Note 12 128GB/6GB Onyx Gray (без NFC)",
+        "current_price": 104990,
+        "old_price": null,
+        "bonus": 5249
+    },
+    {
+        "id": 544,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-hot-30i-thx-656-13-4-1288gb-diamond-white-274219",
+        "product_name": "GSM Infinix Hot 30i THX-6.56-13-4 128/8GB Diamond White",
+        "current_price": 69990,
+        "old_price": null,
+        "bonus": 3499
+    },
+    {
+        "id": 545,
+        "url": "https://www.technodom.kz/p/smartfon-oppo-a74-128gb-prism-black-244573",
+        "product_name": "OPPO A74 128GB Prism Black",
+        "current_price": 69990,
+        "old_price": 109990,
+        "bonus": 3499
+    },
+    {
+        "id": 546,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-plus-512gb-65126748-pink-mu1j3-274398",
+        "product_name": "Apple iPhone 15 Plus 512GB Pink (MU1J3)",
+        "current_price": 804990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 547,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-v23e-128gb-moonlight-shadow-258734",
+        "product_name": "Vivo V23e 128GB Moonlight Shadow",
+        "current_price": 129990,
+        "old_price": null,
+        "bonus": 6499
+    },
+    {
+        "id": 548,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-plus-512gb-65126748-yellow-mu1m3-274399",
+        "product_name": "Apple iPhone 15 Plus 512GB Yellow (MU1M3)",
+        "current_price": 804990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 549,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-512gb-thx-61-12-5-midnight-265279",
+        "product_name": "Apple iPhone 14 512GB Midnight",
+        "current_price": 664990,
+        "old_price": 699990,
+        "bonus": null
+    },
+    {
+        "id": 550,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-1tb-gold-265313",
+        "product_name": "Apple iPhone 14 Pro 1TB Gold",
+        "current_price": 979990,
+        "old_price": null,
+        "bonus": 48999
+    },
+    {
+        "id": 551,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-vivo-y16-thx-651-13-4-32gb-drizzling-gold-268183",
+        "product_name": "Vivo Y16 32GB Drizzling Gold",
+        "current_price": 58690,
+        "old_price": 79990,
+        "bonus": 2934
+    },
+    {
+        "id": 552,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-motorola-edge-30-ultra-12256-star-light-white-271753",
+        "product_name": "Motorola Edge 30 Ultra 256GB Star light White",
+        "current_price": 349990,
+        "old_price": 499990,
+        "bonus": 17499
+    },
+    {
+        "id": 553,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-plus-512gb-thx-67-12-5-midnight-265294",
+        "product_name": "Apple iPhone 14 Plus 512GB Midnight",
+        "current_price": 734990,
+        "old_price": 769990,
+        "bonus": null
+    },
+    {
+        "id": 554,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-512gb-thx-61-12-5-starlight-265280",
+        "product_name": "Apple iPhone 14 512GB Starlight",
+        "current_price": 664990,
+        "old_price": 699990,
+        "bonus": null
+    },
+    {
+        "id": 555,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-14-pro-1tb-silver-265312",
+        "product_name": "Apple iPhone 14 Pro 1TB Silver",
+        "current_price": 959990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 556,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-12-64gb-red-228612",
+        "product_name": "Apple iPhone 12 64GB Red",
+        "current_price": 314990,
+        "old_price": 349990,
+        "bonus": null
+    },
+    {
+        "id": 557,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-plus-256gb-thx-67-12-5-yellow-270491",
+        "product_name": "Apple iPhone 14 Plus 256GB Yellow",
+        "current_price": 594990,
+        "old_price": 629990,
+        "bonus": null
+    },
+    {
+        "id": 558,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-hot-30-play-thx-682-16-4-1288gb-mirage-black-274221",
+        "product_name": "Infinix Hot 30 Play 128/8GB Mirage Black",
+        "current_price": 74990,
+        "old_price": null,
+        "bonus": 3749
+    },
+    {
+        "id": 559,
+        "url": "https://www.technodom.kz/p/smartfon-redmi-note-11s-64gb-pearl-white-259362",
+        "product_name": "Xiaomi Redmi Note 11S 64GB Pearl White",
+        "current_price": 79990,
+        "old_price": 84990,
+        "bonus": 3999
+    },
+    {
+        "id": 560,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-plus-128gb-yellow-mu123-274389",
+        "product_name": "Apple iPhone 15 Plus 128GB Yellow (MU123)",
+        "current_price": 594990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 561,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-samsung-sm-s916bzedskz-thx-66-50-5-galaxy-s23-256gb-beige-269584",
+        "product_name": "Samsung Galaxy S23+ 256GB Beige",
+        "current_price": 459890,
+        "old_price": 599990,
+        "bonus": 22994
+    },
+    {
+        "id": 562,
+        "url": "https://www.technodom.kz/p/smartfon-zte-nubia-redmagic-6r-128gb-cosmos-275440",
+        "product_name": "ZTE Nubia RedMagic 6R 128GB Cosmos",
+        "current_price": 229990,
+        "old_price": null,
+        "bonus": 11499
+    },
+    {
+        "id": 563,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-plus-512gb-65126748-black-mu1h3-274397",
+        "product_name": "Apple iPhone 15 Plus 512GB Black (MU1H3)",
+        "current_price": 804990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 564,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-plus-128gb-61286748-green-mu173-274391",
+        "product_name": "Apple iPhone 15 Plus 128GB Green (MU173)",
+        "current_price": 594990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 565,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-plus-128gb-thx-67-12-5-yellow-270490",
+        "product_name": "Apple iPhone 14 Plus 128GB Yellow",
+        "current_price": 524990,
+        "old_price": 559990,
+        "bonus": null
+    },
+    {
+        "id": 566,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-plus-512gb-thx-67-12-5-starlight-265295",
+        "product_name": "Apple iPhone 14 Plus 512GB Starlight",
+        "current_price": 734990,
+        "old_price": 769990,
+        "bonus": null
+    },
+    {
+        "id": 567,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-512gb-green-mtph3-274386",
+        "product_name": "Apple iPhone 15 512GB Green (MTPH3)",
+        "current_price": 769990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 568,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-plus-128gb-thx-67-12-5-starlight-265285",
+        "product_name": "Apple iPhone 14 Plus 128GB Starlight",
+        "current_price": 524990,
+        "old_price": 559990,
+        "bonus": null
+    },
+    {
+        "id": 569,
+        "url": "https://www.technodom.kz/p/smartfon-motorola-razr-40-ultra-256gb-glacier-blue-273261",
+        "product_name": "Motorola Razr 40 Ultra 256GB Glacier Blue",
+        "current_price": 599900,
+        "old_price": null,
+        "bonus": 29995
+    },
+    {
+        "id": 570,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-12-64gb-green-228611",
+        "product_name": "Apple iPhone 12 64GB Green",
+        "current_price": 314990,
+        "old_price": 349990,
+        "bonus": null
+    },
+    {
+        "id": 571,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-plus-512gb-65126748-blue-mu1p3-274400",
+        "product_name": "Apple iPhone 15 Plus 512GB Blue (MU1P3)",
+        "current_price": 804990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 572,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-hot-40-thx-678-50-4-2568gb-palm-blue-277096",
+        "product_name": "Infinix HOT 40 256GB Palm Blue",
+        "current_price": 99990,
+        "old_price": null,
+        "bonus": 4999
+    },
+    {
+        "id": 573,
+        "url": "https://www.technodom.kz/p/smartfon-oppo-a96-128gb-starry-black-259523",
+        "product_name": "OPPO A96 128GB Starry Black",
+        "current_price": 89990,
+        "old_price": null,
+        "bonus": 4499
+    },
+    {
+        "id": 574,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-14-plus-512gb-thx-67-12-5-purple-265296",
+        "product_name": "Apple iPhone 14 Plus 512GB Purple",
+        "current_price": 734990,
+        "old_price": 769990,
+        "bonus": null
+    },
+    {
+        "id": 575,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-apple-iphone-15-plus-512gb-65126748-green-mu1q3-274401",
+        "product_name": "Apple iPhone 15 Plus 512GB Green (MU1Q3)",
+        "current_price": 804990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 576,
+        "url": "https://www.technodom.kz/p/smartfon-vivo-y33s-64gb-mirror-black-261195",
+        "product_name": "Vivo Y33s 64GB Mirror Black",
+        "current_price": 59990,
+        "old_price": 109990,
+        "bonus": 2999
+    },
+    {
+        "id": 577,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-hot-40-thx-678-50-4-2568gb-starlit-black-277095",
+        "product_name": "Infinix HOT 40 256GB Starlit Black",
+        "current_price": 99990,
+        "old_price": null,
+        "bonus": 4999
+    },
+    {
+        "id": 578,
+        "url": "https://www.technodom.kz/p/smartfon-apple-iphone-15-512gb-yellow-mtpf3-274384",
+        "product_name": "Apple iPhone 15 512GB Yellow (MTPF3)",
+        "current_price": 769990,
+        "old_price": null,
+        "bonus": null
+    },
+    {
+        "id": 579,
+        "url": "https://www.technodom.kz/p/smartfon-gsm-infinix-hot-40-thx-678-50-4-2568gb-horizon-gold-277097",
+        "product_name": "Infinix HOT 40 256GB Horizon Gold",
+        "current_price": 99990,
+        "old_price": null,
+        "bonus": 4999
+    }
+]

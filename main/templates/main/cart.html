@@ -1,0 +1,97 @@
+{% extends 'main/layout.html' %}
+{% load humanize %}
+{% block title %}
+Корзина
+{% endblock %}
+
+{% block profile %}
+    {% if user.is_authenticated %}
+        <a  style="color:white;" class="nav-link" href="{% url 'main:profile' %}">Профиль</a>
+    {% else %}
+        <a  style="color:white;" class="nav-link" href="{% url 'main:login' %}">Войти</a>
+    {% endif %}
+{% endblock %}
+
+{% block logout %}
+    {% if user.is_authenticated %}
+        <form method="post" action="{% url 'main:logout' %}">
+              {% csrf_token %}
+              <input style="color:white;" class="nav-link" type="submit" value="Выйти">
+        </form>
+    {% else %}
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+<!-- Main contnent -->
+
+<div class="container mt-5">
+
+    <h2>Ваша корзина:</h2>
+    {% if cart_items %}
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Бренд</th>
+                    <th>Модель</th>
+                    <th>Память</th>
+                    <th>Цвет</th>
+                    <th>Цена</th>
+                    <th>Продавец</th>
+                    <th>Количество</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in cart_items %}
+                <tr>
+                    <td>{{ item.product.brand.name }}</td>
+                    <td>{{ item.product.model.name }}</td>
+                    <td>{{ item.product.storage.size }} ГБ</td>
+                    <td>{{ item.product.color.name }}</td>
+                    <td>{{ item.product.price|intcomma }} тг.</td>
+                    <td>{{ item.product.seller.username }}</td>
+                    <td>{{ item.quantity }}</td>
+                    <td>
+                        <form action="{% url 'main:remove_from_cart' item.id %}" method="post">
+                            {% csrf_token %}
+                            <button class="btn btn-secondary" type="submit">Удалить</button>
+                        </form>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <button class="btn btn-secondary">
+            Оформить заказ
+        </button>
+        {% else %}
+        <p>Ваша корзина пуста.</p>
+        {% endif %}
+
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>  <!-- Добавленная ссылка -->
+<script>
+$(document).ready(function() {
+    $('#search-input').autocomplete({
+        source: function(request, response) {
+            $.ajax({
+                url: '/autocomplete-products/',
+                data: { 'term': request.term },
+                success: function(data) {
+                    response(data);
+                }
+            });
+        },
+        minLength: 3  // Минимальное количество символов перед запросом
+
+    });
+});
+</script>
+
+
+
+<!-- End of Main contnent -->
+{% endblock %}

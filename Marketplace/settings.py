@@ -11,7 +11,8 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 """
 
 from pathlib import Path
-
+import os
+from django.conf.global_settings import STATICFILES_DIRS
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 from django.urls import reverse_lazy
 
@@ -40,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django.contrib.humanize',
 ]
 
 MIDDLEWARE = [
@@ -57,7 +59,7 @@ ROOT_URLCONF = 'Marketplace.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'main', 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -65,6 +67,7 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+                'main.context_processors.categories_processor',
             ],
         },
     },
@@ -77,14 +80,32 @@ WSGI_APPLICATION = 'Marketplace.wsgi.application'
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
 DATABASES = {
+
+    #"default": {
+    #    "ENGINE": "django.db.backends.postgresql",
+    #    "NAME": "Marketplace",
+    #    "USER": "kayaba1",
+    #    "PASSWORD": "Temok2000",
+    #    "HOST": "127.0.0.1",
+    #    "PORT": "5432",
+    #},
+    #'Products': {
+    #    'ENGINE': 'django.db.backends.postgresql',
+    #    'NAME': 'Products',
+    #    'USER': 'kayaba1',
+    #    'PASSWORD': 'Temok2000',
+    #    "HOST": "127.0.0.1",
+    #    "PORT": "5432",
+    #},'''
+    
     "default": {
-        "ENGINE": "django.db.backends.postgresql",
-        "NAME": "Marketplace",
-        "USER": "kayaba1",
-        "PASSWORD": "Temok2000@",
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'products',
+        'USER': 'kayaba1',
+        'PASSWORD': 'Temok2000',
         "HOST": "127.0.0.1",
         "PORT": "5432",
-    }
+    },
 }
 
 
@@ -130,5 +151,9 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGIN_REDIRECT_URL = '/main/'
-LOGIN_URL = '/main/accounts/login/'
+LOGIN_URL = '/accounts/login/'
+
+STATICFILES_DIRS = [
+    BASE_DIR / "static",
+]
 

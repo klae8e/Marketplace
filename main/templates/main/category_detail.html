@@ -1,0 +1,119 @@
+{% extends 'main/layout.html' %}
+{% load humanize %}
+{% block title %}
+{{ category.name }}
+{% endblock %}
+
+{% block profile %}
+    {% if user.is_authenticated %}
+        <a style="color:white;" class="nav-link" href="{% url 'main:profile' %}">Профиль</a>
+    {% else %}
+        <a style="color:white;" class="nav-link" href="{% url 'main:login' %}">Войти</a>
+    {% endif %}
+{% endblock %}
+
+{% block logout %}
+    {% if user.is_authenticated %}
+    <form method="post" action="{% url 'main:logout' %}">
+          {% csrf_token %}
+          <input style="color:white;" class="nav-link" type="submit" value="Выйти">
+    </form>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+<!-- Main contnent -->
+
+
+
+<div class="container nav-underline">
+    <div class="pt-5 mb-5">
+        <h2>{{ category.name }}</h2>
+    </div>
+    <div class="row">
+        {% for brand, model, model_id, img_url, color, min_size, min_price in page_brands_and_models %}
+            <div class="col-md-3 mb-4 text-center  btn bg-card">
+                <a class="nav-link mb-3 bg2-card" href="/category/{{ category.id }}/{{ model_id }}/">
+                    <div class=" smartphone-card">
+                        <div class="">
+                            <div class="img-fluid">
+                                <img class="p-5 img-fluid" src="{{ img_url }}" alt="{{ model }}">
+                            </div>
+                        </div>
+                        <div class="undrlne">{{ brand }} {{ model }}</div>
+                        <div class="p-4 undrlne">Цена от: {% if min_price %}{{ min_price|intcomma }} тг.{% else %}N/A{% endif %}</div>
+                    </div>
+                </a>
+            </div>
+            {% if forloop.counter|divisibleby:4 and not forloop.last %}
+                </div><div class="row">
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+
+{% if page_brands_and_models.has_other_pages %}
+    <div class="container mb-5">
+        <ul class="pagination justify-content-center">
+            {% if page_brands_and_models.has_previous %}
+                <li class="page-item"><a class="page-link" href="?page=1" style="color:#198754;">&laquo;</a></li>
+                <li class="page-item"><a class="page-link" href="?page={{ page_brands_and_models.previous_page_number }}" style="color:#198754;">{{ page_brands_and_models.previous_page_number }}</a></li>
+            {% endif %}
+            <li class="page-item active"><span style="background-color:#198754;" class="page-link">{{ page_brands_and_models.number }}</span></li>
+            {% if page_brands_and_models.has_next %}
+                <li class="page-item"><a class="page-link" href="?page={{ page_brands_and_models.next_page_number }}" style="color:#198754;">{{ page_brands_and_models.next_page_number }}</a></li>
+                <li class="page-item"><a class="page-link" href="?page={{ page_brands_and_models.paginator.num_pages }}" style="color:#198754;">&raquo;</a></li>
+            {% endif %}
+        </ul>
+    </div>
+{% endif %}
+
+
+
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>  <!-- Добавленная ссылка -->
+<script>
+$(document).ready(function() {
+    $('#search-input').autocomplete({
+        source: function(request, response) {
+            $.ajax({
+                url: '/autocomplete-products/',
+                data: { 'term': request.term },
+                success: function(data) {
+                    response(data);
+                }
+            });
+        },
+        minLength: 3  // Минимальное количество символов перед запросом
+
+    });
+});
+</script>
+
+<style>
+    .bg-card:hover{
+        #background-color:#198754;
+
+    }
+    .undrlne:hover{
+        text-decoration: underline;
+
+    }
+    .bg2-card{
+        box-shadow: 3px 3px 3px black;
+        border-radius:20px;
+    }
+
+   .imgc{
+        height: 400px; /* Фиксированная высота контейнера */
+        overflow: hidden; /* Скрытие изображения, которое выходит за границы контейнера */
+    }
+</style>
+
+<!-- End of Main contnent -->
+{% endblock %}
+
