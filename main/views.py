@@ -14,11 +14,11 @@ from django.views import View
 from django.views.decorators.http import require_POST
 from django.views.generic import CreateView, FormView
 
-from main.forms import RegisterForm, SellerProductForm, ProductSearchForm
+from main.forms import RegisterForm, SellerProductForm, ProductSearchForm, UserReviewForm
 from django.shortcuts import render
 
 from .models import Product, SellerProduct, Brand, Smartphones, MarketProduct, Market, Cart, CartItem, Favorite, \
-    PriceHistory
+    PriceHistory, UserReview
 from .models import Category
 from django.contrib.auth.models import Group, User
 from .models import Model
@@ -362,7 +362,7 @@ def product_detail(request, category_id, model_id):
     # Получаем товары от продавцов для данной модели
     seller_products = SellerProduct.objects.filter(model=model)
 
-    #test
+    #graph
 
     # Получаем данные цен из всех строк модели PriceHistory
     queryset = PriceHistory.objects.all().order_by('date').values('price', 'date')
@@ -389,7 +389,25 @@ def product_detail(request, category_id, model_id):
     # Преобразуем график в HTML
     graph_html = pio.to_html(fig, full_html=False)
 
-    #testend
+    #graphend
+
+    #review
+    if request.method == 'POST':
+        form = UserReviewForm(request.POST)
+        if form.is_valid():
+            review = form.save(commit=False)
+            review.user = request.user
+            review.category = category
+            review.model = model
+            review.save()
+            #return redirect('category_detail', category_id=category.id, model_id=model.id)
+
+    else:
+        form = UserReviewForm()
+
+    #reviewvisible
+    reviews = UserReview.objects.filter(category=category, model=model, visible=1)
+    #endreview
     context = {
         'category': category,
         'model': model,
@@ -397,6 +415,8 @@ def product_detail(request, category_id, model_id):
         'min_price': min_price,
         'seller_products': seller_products,
         'graph_html': graph_html,
+        'form': form,
+        'reviews': reviews
     }
     return render(request, 'main/product_detail.html', context)
 
@@ -432,5 +452,21 @@ def price_history_chart(request):
     return render(request, 'main/price_history_chart.html', {'graph_html': graph_html})
 
 
+@login_required
+def add_review(request, category_id, model_id):
+    category = get_object_or_404(Category, id=category_id)
+    model = get_object_or_404(Model, id=model_id)
 
+    if request.method == 'POST':
+        form = UserReviewForm(request.POST)
+        if form.is_valid():
+            review = form.save(commit=False)
+            review.user = request.user
+            review.category = category
+            review.model = model
+            review.save()
+            return redirect('main/product_detail', category_id=category.id, model_id=model.id)
+    else:
+        form = UserReviewForm()
 
+    return render(request, 'main/add_review.html', {'form': form, 'category': category, 'model': model})

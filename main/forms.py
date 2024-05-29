@@ -1,7 +1,7 @@
 from django.contrib.auth.forms import UserCreationForm
 
 from django import forms
-from .models import Category, Brand, Model, Color, Storage, SellerProduct
+from .models import Category, Brand, Model, Color, Storage, SellerProduct, UserReview
 
 
 class RegisterForm(UserCreationForm):
@@ -30,3 +30,7 @@ class ProductSearchForm(forms.Form):
     query = forms.CharField(max_length=100, label='Поиск')
 
 
+class UserReviewForm(forms.ModelForm):
+    class Meta:
+        model = UserReview
+        fields = ['text']  # Только поле для ввода текста

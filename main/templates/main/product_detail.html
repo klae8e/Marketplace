@@ -8,7 +8,7 @@
 
 {% block profile %}
     {% if user.is_authenticated %}
-        <a style="color:white;" class="nav-link" href="{% url 'main:profile' %}">Профиль</a>
+<a style="color:white;" class="nav-link" href="{% url 'main:profile' %}" xmlns="http://www.w3.org/1999/html">Профиль</a>
     {% else %}
         <a style="color:white;" class="nav-link" href="{% url 'main:login' %}">Войти</a>
     {% endif %}
@@ -114,6 +114,40 @@
             </table>
             <!--<img src="{{ img_path }}" alt="График цен на товар">-->
         </div>
+
+    <h5>Написать отзыв</h5>
+    <form method="post">
+        {% csrf_token %}
+        <div id="text-review">
+            {{ form.as_p }}
+        </div>
+            <button class="btn btn-secondary" type="submit">Submit</button>
+    </form>
+
+    <h5 class="mt-2">Отзывы:</h5>
+    {% if reviews %}
+        <div>
+            {% for review in reviews %}
+                <div class="row">
+                    <div class="border m-1">
+                        <div class="row">
+                            <div class="col-sm-6">ID: {{ review.user_id }}</div>
+                            <div class="col-sm-6 text-end">{{ review.created_at }}</div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-1"></div>
+                            <div class="col-sm-10">{{ review.text }}</div>
+                        </div>
+
+
+                    </div>
+                    <!--<p>Нравится: {{ review.like }} | Не нравится: {{ review.dislike }}</p>-->
+                </div>
+            {% endfor %}
+        </div>
+    {% else %}
+        <p>Нет отзывов для этого товара.</p>
+    {% endif %}
 </div>
 
 
@@ -150,6 +184,8 @@ $(document).ready(function() {
 
     });
 });
+
+
 </script>
 
 <style>
@@ -160,6 +196,10 @@ $(document).ready(function() {
     a:hover{
         text-decoration:underline;
         text-decoration-color: #198754;
+    }
+    textarea{
+        width: 100%;
+        height 20px;
     }
 </style>
 
